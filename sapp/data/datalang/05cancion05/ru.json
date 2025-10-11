@@ -1,0 +1,45 @@
+{
+  "unknown_song_verse1_line1": {"texto": "Опять она, родная, не спит всю ночь", "fonetica": "ɐˈpʲatʲ ɐˈna rɐˈdnajə nʲɪ spʲit fsʲu notɕ"},
+  "unknown_song_verse1_line2": {"texto": "Опять она, чужая, ищет мою ложь", "fonetica": "ɐˈpʲatʲ ɐˈna tɕʊˈʐajə ˈiɕːɪt mɐˈju loʂ"},
+  "unknown_song_verse1_line3": {"texto": "И снова дождь, и снова по лицу", "fonetica": "i ˈsnovə doɕː i ˈsnovə pə lʲɪˈt͡su"},
+  "unknown_song_verse1_line4": {"texto": "Твои ресницы, будто на краю", "fonetica": "tvɐˈi rʲɪˈsʲit͡sɨ ˈbutə nə krɐˈju"},
+  
+  "unknown_song_prechorus1_line1": {"texto": "И я кричу, кричу, кричу", "fonetica": "i ˈja krʲɪˈt͡ɕu krʲɪˈt͡ɕu krʲɪˈt͡ɕu"},
+  "unknown_song_prechorus1_line2": {"texto": "Но ты не слышишь больше", "fonetica": "no tɨ nʲɪ ˈslɨʂɨʂ ˈbolʲʂɨ"},
+  "unknown_song_prechorus1_line3": {"texto": "И я молю, молю, молю", "fonetica": "i ˈja mɐˈlʲu mɐˈlʲu mɐˈlʲu"},
+  "unknown_song_prechorus1_line4": {"texto": "Прошу тебя, не трожь её", "fonetica": "prɐˈʂu tʲɪˈbʲa nʲɪ troʂ jɪˈjo"},
+  
+  "unknown_song_chorus1_line1": {"texto": "А я всё помню, помню, помню", "fonetica": "a ˈja fsʲɵ ˈpomnʲu ˈpomnʲu ˈpomnʲu"},
+  "unknown_song_chorus1_line2": {"texto": "Твои глаза, твои слова", "fonetica": "tvɐˈi ɡlɐˈza tvɐˈi slɐˈva"},
+  "unknown_song_chorus1_line3": {"texto": "А я всё помню, помню, помню", "fonetica": "a ˈja fsʲɵ ˈpomnʲu ˈpomnʲu ˈpomnʲu"},
+  "unknown_song_chorus1_line4": {"texto": "Как ты любила тогда", "fonetica": "kak tɨ lʲʉˈbʲiɫə tɐɡˈda"},
+  
+  "unknown_song_verse2_line1": {"texto": "Твои следы на мокром асфальте", "fonetica": "tvɐˈi slʲɪˈdɨ nə ˈmokrəm ɐsˈfalʲtʲe"},
+  "unknown_song_verse2_line2": {"texto": "Мои мечты в разбитом зеркале", "fonetica": "mɐˈi mʲɪt͡ɕˈtɨ v rɐzˈbʲitəm zʲɪrˈkalʲe"},
+  "unknown_song_verse2_line3": {"texto": "И этот взгляд, что прячет боль", "fonetica": "i ˈɛtət vzɡlʲat ʂto ˈprʲæt͡ɕɪt bolʲ"},
+  "unknown_song_verse2_line4": {"texto": "И эту ночь, что стала днём", "fonetica": "i ˈɛtu notɕ ʂto ˈstaɫə dⁿom"},
+  
+  "unknown_song_prechorus2_line1": {"texto": "И я кричу, кричу, кричу", "fonetica": "i ˈja krʲɪˈt͡ɕu krʲɪˈt͡ɕu krʲɪˈt͡ɕu"},
+  "unknown_song_prechorus2_line2": {"texto": "Но ты не слышишь больше", "fonetica": "no tɨ nʲɪ ˈslɨʂɨʂ ˈbolʲʂɨ"},
+  "unknown_song_prechorus2_line3": {"texto": "И я молю, молю, молю", "fonetica": "i ˈja mɐˈlʲu mɐˈlʲu mɐˈlʲu"},
+  "unknown_song_prechorus2_line4": {"texto": "Прошу тебя, не трожь её", "fonetica": "prɐˈʂu tʲɪˈbʲa nʲɪ troʂ jɪˈjo"},
+  
+  "unknown_song_chorus2_line1": {"texto": "А я всё помню, помню, помню", "fonetica": "a ˈja fsʲɵ ˈpomnʲu ˈpomnʲu ˈpomnʲu"},
+  "unknown_song_chorus2_line2": {"texto": "Твои глаза, твои слова", "fonetica": "tvɐˈi ɡlɐˈza tvɐˈi slɐˈva"},
+  "unknown_song_chorus2_line3": {"texto": "А я всё помню, помню, помню", "fonetica": "a ˈja fsʲɵ ˈpomnʲu ˈpomnʲu ˈpomnʲu"},
+  "unknown_song_chorus2_line4": {"texto": "Как ты любила тогда", "fonetica": "kak tɨ lʲʉˈbʲiɫə tɐɡˈda"},
+  
+  "unknown_song_bridge_line1": {"texto": "И пусть пройдут года", "fonetica": "i put͡sʲ prɐjˈdut ɡɐˈda"},
+  "unknown_song_bridge_line2": {"texto": "И станет сердце холодней", "fonetica": "i ˈstanʲɪt ˈsʲert͡sə xɐˈɫodⁿɪj"},
+  "unknown_song_bridge_line3": {"texto": "Но эту боль из памяти", "fonetica": "no ˈɛtu bolʲ iz ˈpamʲɪtʲɪ"},
+  "unknown_song_bridge_line4": {"texto": "Я не сотру и не сменю", "fonetica": "ja nʲɪ sɐˈtru i nʲɪ smʲɪˈnʲu"},
+  
+  "unknown_song_chorus3_line1": {"texto": "А я всё помню, помню, помню", "fonetica": "a ˈja fsʲɵ ˈpomnʲu ˈpomnʲu ˈpomnʲu"},
+  "unknown_song_chorus3_line2": {"texto": "Твои глаза, твои слова", "fonetica": "tvɐˈi ɡlɐˈza tvɐˈi slɐˈva"},
+  "unknown_song_chorus3_line3": {"texto": "А я всё помню, помню, помню", "fonetica": "a ˈja fsʲɵ ˈpomnʲu ˈpomnʲu ˈpomnʲu"},
+  "unknown_song_chorus3_line4": {"texto": "Как ты любила тогда", "fonetica": "kak tɨ lʲʉˈbʲiɫə tɐɡˈda"},
+  
+  "unknown_song_outro_line1": {"texto": "Помню...", "fonetica": "ˈpomnʲu"},
+  "unknown_song_outro_line2": {"texto": "Как ты любила...", "fonetica": "kak tɨ lʲʉˈbʲiɫə"},
+  "unknown_song_outro_line3": {"texto": "Тогда...", "fonetica": "tɐɡˈda"}
+  }

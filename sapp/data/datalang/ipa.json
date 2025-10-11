@@ -1,0 +1,190 @@
+{
+    "ipa_symbols": [
+      {
+        "symbol": "ʃ",
+        "name": "voiceless postalveolar fricative",
+        "examples": [
+          { "word": "shoe", "language": "English", "ipa": "ʃuː", "highlight": "sh" },
+          { "word": "sheep", "language": "English", "ipa": "ʃiːp", "highlight": "sh" },
+          { "word": "chat", "language": "French", "ipa": "ʃa", "highlight": "ch" },
+          { "word": "schön", "language": "German", "ipa": "ʃøːn", "highlight": "sch" },
+          { "word": "шапка", "language": "Russian", "ipa": "ʃapka", "highlight": "ш" },
+          { "word": "xuxa", "language": "Portuguese", "ipa": "ˈʃuʃa", "highlight": "x" },
+          { "word": "shampoo", "language": "English", "ipa": "ʃæmˈpuː", "highlight": "sh" }
+        ]
+      },
+      {
+        "symbol": "θ",
+        "name": "voiceless dental fricative",
+        "examples": [
+          { "word": "think", "language": "English", "ipa": "θɪŋk", "highlight": "th" },
+          { "word": "thin", "language": "English", "ipa": "θɪn", "highlight": "th" },
+          { "word": "theater", "language": "English", "ipa": "ˈθiːətər", "highlight": "th" },
+          { "word": "thousand", "language": "English", "ipa": "ˈθaʊzənd", "highlight": "th" },
+          { "word": "thunder", "language": "English", "ipa": "ˈθʌndər", "highlight": "th" },
+          { "word": "thirty", "language": "English", "ipa": "ˈθɜːti", "highlight": "th" },
+          { "word": "ether", "language": "English", "ipa": "ˈiːθər", "highlight": "th" }
+        ]
+      },
+      {
+        "symbol": "ð",
+        "name": "voiced dental fricative",
+        "examples": [
+          { "word": "this", "language": "English", "ipa": "ðɪs", "highlight": "th" },
+          { "word": "that", "language": "English", "ipa": "ðæt", "highlight": "th" },
+          { "word": "these", "language": "English", "ipa": "ðiːz", "highlight": "th" },
+          { "word": "those", "language": "English", "ipa": "ðoʊz", "highlight": "th" },
+          { "word": "brother", "language": "English", "ipa": "ˈbrʌðər", "highlight": "th" },
+          { "word": "mother", "language": "English", "ipa": "ˈmʌðər", "highlight": "th" },
+          { "word": "father", "language": "English", "ipa": "ˈfɑːðər", "highlight": "th" }
+        ]
+      },
+      {
+        "symbol": "ŋ",
+        "name": "velar nasal",
+        "examples": [
+          { "word": "sing", "language": "English", "ipa": "sɪŋ", "highlight": "ng" },
+          { "word": "song", "language": "English", "ipa": "sɒŋ", "highlight": "ng" },
+          { "word": "long", "language": "English", "ipa": "lɒŋ", "highlight": "ng" },
+          { "word": "king", "language": "English", "ipa": "kɪŋ", "highlight": "ng" },
+          { "word": "bringen", "language": "German", "ipa": "ˈbrɪŋən", "highlight": "ng" },
+          { "word": "manga", "language": "Japanese", "ipa": "maŋɡa", "highlight": "ng" },
+          { "word": "tango", "language": "Spanish", "ipa": "ˈtaŋɡo", "highlight": "ng" }
+        ]
+      },
+      {
+        "symbol": "æ",
+        "name": "near-open front unrounded vowel",
+        "examples": [
+          { "word": "cat", "language": "English", "ipa": "kæt", "highlight": "a" },
+          { "word": "man", "language": "English", "ipa": "mæn", "highlight": "a" },
+          { "word": "sad", "language": "English", "ipa": "sæd", "highlight": "a" },
+          { "word": "apple", "language": "English", "ipa": "ˈæpl̩", "highlight": "a" },
+          { "word": "map", "language": "English", "ipa": "mæp", "highlight": "a" },
+          { "word": "hand", "language": "English", "ipa": "hænd", "highlight": "a" },
+          { "word": "back", "language": "English", "ipa": "bæk", "highlight": "a" }
+        ]
+      },
+      {
+        "symbol": "uː",
+        "name": "close back rounded vowel (long)",
+        "examples": [
+          { "word": "food", "language": "English", "ipa": "fuːd", "highlight": "oo" },
+          { "word": "school", "language": "English", "ipa": "skuːl", "highlight": "oo" },
+          { "word": "blue", "language": "English", "ipa": "bluː", "highlight": "ue" },
+          { "word": "two", "language": "English", "ipa": "tuː", "highlight": "wo" },
+          { "word": "shoe", "language": "English", "ipa": "ʃuː", "highlight": "oe" },
+          { "word": "rude", "language": "English", "ipa": "ruːd", "highlight": "u" },
+          { "word": "June", "language": "English", "ipa": "dʒuːn", "highlight": "u" }
+        ]
+      },
+      {
+        "symbol": "oʊ",
+        "name": "diphthong close-mid back rounded vowel",
+        "examples": [
+          { "word": "go", "language": "English", "ipa": "ɡoʊ", "highlight": "o" },
+          { "word": "no", "language": "English", "ipa": "noʊ", "highlight": "o" },
+          { "word": "home", "language": "English", "ipa": "hoʊm", "highlight": "o" },
+          { "word": "phone", "language": "English", "ipa": "foʊn", "highlight": "o" },
+          { "word": "show", "language": "English", "ipa": "ʃoʊ", "highlight": "ow" },
+          { "word": "stone", "language": "English", "ipa": "stoʊn", "highlight": "o" },
+          { "word": "hello", "language": "English", "ipa": "həˈloʊ", "highlight": "o" }
+        ]
+      },
+
+
+
+          {
+            "symbol": "p",
+            "name": "voiceless bilabial plosive",
+            "examples": [
+              { "word": "pat", "language": "English", "ipa": "pæt", "highlight": "p" },
+              { "word": "pied", "language": "French", "ipa": "pje", "highlight": "p" },
+              { "word": "papa", "language": "Spanish", "ipa": "ˈpapa", "highlight": "p" },
+              { "word": "Peter", "language": "German", "ipa": "ˈpeːtɐ", "highlight": "P" },
+              { "word": "παιδί", "language": "Greek", "ipa": "peˈði", "highlight": "π" },
+              { "word": "папа", "language": "Russian", "ipa": "ˈpapə", "highlight": "п" },
+              { "word": "パン", "language": "Japanese", "ipa": "paɴ", "highlight": "パ" }
+            ]
+          },
+          {
+            "symbol": "b",
+            "name": "voiced bilabial plosive",
+            "examples": [
+              { "word": "bat", "language": "English", "ipa": "bæt", "highlight": "b" },
+              { "word": "beau", "language": "French", "ipa": "bo", "highlight": "b" },
+              { "word": "boca", "language": "Spanish", "ipa": "ˈboka", "highlight": "b" },
+              { "word": "Brot", "language": "German", "ipa": "bʁoːt", "highlight": "B" },
+              { "word": "быстро", "language": "Russian", "ipa": "ˈbɨstrə", "highlight": "б" },
+              { "word": "belo", "language": "Portuguese", "ipa": "ˈbɛlu", "highlight": "b" },
+              { "word": "भाई", "language": "Hindi", "ipa": "bʱaːi", "highlight": "भ" }
+            ]
+          },
+          {
+            "symbol": "t",
+            "name": "voiceless alveolar plosive",
+            "examples": [
+              { "word": "top", "language": "English", "ipa": "tɒp", "highlight": "t" },
+              { "word": "temps", "language": "French", "ipa": "tɑ̃", "highlight": "t" },
+              { "word": "tierra", "language": "Spanish", "ipa": "ˈtjera", "highlight": "t" },
+              { "word": "Tag", "language": "German", "ipa": "taːk", "highlight": "T" },
+              { "word": "тигр", "language": "Russian", "ipa": "ˈtʲiɡr", "highlight": "т" },
+              { "word": "terra", "language": "Italian", "ipa": "ˈtɛrra", "highlight": "t" },
+              { "word": "ten", "language": "Polish", "ipa": "tɛn", "highlight": "t" }
+            ]
+          },
+          {
+            "symbol": "d",
+            "name": "voiced alveolar plosive",
+            "examples": [
+              { "word": "dog", "language": "English", "ipa": "dɒɡ", "highlight": "d" },
+              { "word": "deux", "language": "French", "ipa": "dø", "highlight": "d" },
+              { "word": "día", "language": "Spanish", "ipa": "ˈdia", "highlight": "d" },
+              { "word": "Dorf", "language": "German", "ipa": "dɔʁf", "highlight": "D" },
+              { "word": "дом", "language": "Russian", "ipa": "dom", "highlight": "д" },
+              { "word": "dente", "language": "Italian", "ipa": "ˈdɛnte", "highlight": "d" },
+              { "word": "dizer", "language": "Portuguese", "ipa": "diˈzeɾ", "highlight": "d" }
+            ]
+          },
+          {
+            "symbol": "k",
+            "name": "voiceless velar plosive",
+            "examples": [
+              { "word": "cat", "language": "English", "ipa": "kæt", "highlight": "c" },
+              { "word": "carte", "language": "French", "ipa": "kaʁt", "highlight": "c" },
+              { "word": "casa", "language": "Spanish", "ipa": "ˈkasa", "highlight": "c" },
+              { "word": "Kind", "language": "German", "ipa": "kɪnt", "highlight": "K" },
+              { "word": "кошка", "language": "Russian", "ipa": "ˈkoʂkə", "highlight": "к" },
+              { "word": "cão", "language": "Portuguese", "ipa": "kɐ̃w̃", "highlight": "c" },
+              { "word": "火", "language": "Japanese", "ipa": "ka", "highlight": "か" }
+            ]
+          },
+          {
+            "symbol": "g",
+            "name": "voiced velar plosive",
+            "examples": [
+              { "word": "go", "language": "English", "ipa": "ɡoʊ", "highlight": "g" },
+              { "word": "gare", "language": "French", "ipa": "ɡaʁ", "highlight": "g" },
+              { "word": "gato", "language": "Spanish", "ipa": "ˈɡato", "highlight": "g" },
+              { "word": "gut", "language": "German", "ipa": "ɡuːt", "highlight": "g" },
+              { "word": "год", "language": "Russian", "ipa": "ɡot", "highlight": "г" },
+              { "word": "gente", "language": "Portuguese", "ipa": "ˈʒẽtʃi", "highlight": "g" },
+              { "word": "gamba", "language": "Italian", "ipa": "ˈɡamba", "highlight": "g" }
+            ]
+          },
+          {
+            "symbol": "m",
+            "name": "bilabial nasal",
+            "examples": [
+              { "word": "man", "language": "English", "ipa": "mæn", "highlight": "m" },
+              { "word": "mère", "language": "French", "ipa": "mɛʁ", "highlight": "m" },
+              { "word": "madre", "language": "Spanish", "ipa": "ˈmaðɾe", "highlight": "m" },
+              { "word": "Mutter", "language": "German", "ipa": "ˈmʊtɐ", "highlight": "M" },
+              { "word": "мир", "language": "Russian", "ipa": "mir", "highlight": "м" },
+              { "word": "mão", "language": "Portuguese", "ipa": "mɐ̃w̃", "highlight": "m" },
+              { "word": "母", "language": "Japanese", "ipa": "haha", "highlight": "母" }
+            ]
+          }
+        ]
+  }
+  

@@ -1,0 +1,11 @@
+[
+  { "id": "games", "descripcion": "Juegos iniciales", "auth": "none", "icon": "menu_book", "version": "1.0.0.0", "orden": 1, "activo": true },
+  { "id": "health", "descripcion": "Estado de salud", "auth": "none", "icon": "verified_user", "version": "1.0.0.0", "orden": 2, "activo": true },
+  { "id": "crud", "descripcion": "App DATOS INIT", "auth": "none", "icon": "list_alt", "version": "1.0.0.0", "orden": 3, "activo": true },
+  { "id": "crudv2", "descripcion": "App DATOS LOGIN", "auth": "firebase", "icon": "settings", "version": "1.0.0.0", "orden": 4, "activo": true },
+  { "id": "learn", "descripcion": "App Learn", "auth": "none", "icon": "book", "version": "1.0.0.0", "orden": 5, "activo": true },
+  { "id": "learnAFI", "descripcion": "Learn AFI", "auth": "firebase", "icon": "book", "version": "1.0.0.0", "orden": 1, "activo": true },
+  { "id": "sos", "descripcion": "App SOS", "auth": "none", "icon": "help", "version": "1.0.0.0", "orden": 6, "activo": true },
+  { "id": "Noexiste", "descripcion": "App Noexiste", "auth": "none", "icon": "help", "version": "1.0.0.0", "orden": 7, "activo": true },
+  { "id": "Oculto", "descripcion": "App Oculto", "auth": "none", "icon": "help", "version": "1.0.0.0", "orden": 8, "activo": false }
+]

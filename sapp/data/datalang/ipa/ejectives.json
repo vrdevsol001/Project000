@@ -1,0 +1,70 @@
+{
+  "category": "Ejectives",
+  "symbols": [
+    {
+      "symbol": "pʼ",
+      "name": "voiceless bilabial ejective plosive",
+      "examples": [
+        { "word": "pʼatʼa", "lang": "Georgian", "local": "ka-GE", "ipa": "pʼatʼa", "highlight": "pʼ" },
+        { "word": "pʼuri", "lang": "Georgian", "local": "ka-GE", "ipa": "pʼuri", "highlight": "pʼ" },
+        { "word": "apʼa", "lang": "Amharic", "local": "am-ET", "ipa": "apʼa", "highlight": "pʼ" },
+        { "word": "pʼetʼe", "lang": "Tigrinya", "local": "ti-ER", "ipa": "pʼetʼe", "highlight": "pʼ" },
+        { "word": "pʼo", "lang": "Georgian", "local": "ka-GE", "ipa": "pʼo", "highlight": "pʼ" },
+        { "word": "pʼala", "lang": "Amharic", "local": "am-ET", "ipa": "pʼala", "highlight": "pʼ" },
+        { "word": "pʼanta", "lang": "Quechua", "local": "qu-PE", "ipa": "pʼanta", "highlight": "pʼ" }
+      ]
+    },
+    {
+      "symbol": "tʼ",
+      "name": "voiceless alveolar ejective plosive",
+      "examples": [
+        { "word": "tʼam", "lang": "Amharic", "local": "am-ET", "ipa": "tʼam", "highlight": "tʼ" },
+        { "word": "tʼama", "lang": "Georgian", "local": "ka-GE", "ipa": "tʼama", "highlight": "tʼ" },
+        { "word": "tʼikʼi", "lang": "Tigrinya", "local": "ti-ER", "ipa": "tʼikʼi", "highlight": "tʼ" },
+        { "word": "tʼo", "lang": "Georgian", "local": "ka-GE", "ipa": "tʼo", "highlight": "tʼ" },
+        { "word": "itʼi", "lang": "Amharic", "local": "am-ET", "ipa": "itʼi", "highlight": "tʼ" },
+        { "word": "atʼa", "lang": "Quechua", "local": "qu-PE", "ipa": "atʼa", "highlight": "tʼ" },
+        { "word": "tʼuru", "lang": "Aymara", "local": "ay-BO", "ipa": "tʼuru", "highlight": "tʼ" }
+      ]
+    },
+    {
+      "symbol": "kʼ",
+      "name": "voiceless velar ejective plosive",
+      "examples": [
+        { "word": "kʼala", "lang": "Amharic", "local": "am-ET", "ipa": "kʼala", "highlight": "kʼ" },
+        { "word": "kʼaba", "lang": "Georgian", "local": "ka-GE", "ipa": "kʼaba", "highlight": "kʼ" },
+        { "word": "akʼa", "lang": "Tigrinya", "local": "ti-ER", "ipa": "akʼa", "highlight": "kʼ" },
+        { "word": "kʼor", "lang": "Amharic", "local": "am-ET", "ipa": "kʼor", "highlight": "kʼ" },
+        { "word": "kʼitu", "lang": "Quechua", "local": "qu-PE", "ipa": "kʼitu", "highlight": "kʼ" },
+        { "word": "kʼuta", "lang": "Aymara", "local": "ay-BO", "ipa": "kʼuta", "highlight": "kʼ" },
+        { "word": "kʼari", "lang": "Georgian", "local": "ka-GE", "ipa": "kʼari", "highlight": "kʼ" }
+      ]
+    },
+    {
+      "symbol": "qʼ",
+      "name": "voiceless uvular ejective plosive",
+      "examples": [
+        { "word": "qʼali", "lang": "Amharic", "local": "am-ET", "ipa": "qʼali", "highlight": "qʼ" },
+        { "word": "qʼaba", "lang": "Georgian", "local": "ka-GE", "ipa": "qʼaba", "highlight": "qʼ" },
+        { "word": "aqʼa", "lang": "Tigrinya", "local": "ti-ER", "ipa": "aqʼa", "highlight": "qʼ" },
+        { "word": "qʼar", "lang": "Amharic", "local": "am-ET", "ipa": "qʼar", "highlight": "qʼ" },
+        { "word": "qʼitu", "lang": "Quechua", "local": "qu-PE", "ipa": "qʼitu", "highlight": "qʼ" },
+        { "word": "qʼuta", "lang": "Aymara", "local": "ay-BO", "ipa": "qʼuta", "highlight": "qʼ" },
+        { "word": "qʼari", "lang": "Georgian", "local": "ka-GE", "ipa": "qʼari", "highlight": "qʼ" }
+      ]
+    },
+    {
+      "symbol": "sʼ",
+      "name": "voiceless alveolar ejective fricative",
+      "examples": [
+        { "word": "sʼaba", "lang": "Georgian", "local": "ka-GE", "ipa": "sʼaba", "highlight": "sʼ" },
+        { "word": "asʼi", "lang": "Amharic", "local": "am-ET", "ipa": "asʼi", "highlight": "sʼ" },
+        { "word": "isʼa", "lang": "Tigrinya", "local": "ti-ER", "ipa": "isʼa", "highlight": "sʼ" },
+        { "word": "sʼo", "lang": "Georgian", "local": "ka-GE", "ipa": "sʼo", "highlight": "sʼ" },
+        { "word": "usʼu", "lang": "Amharic", "local": "am-ET", "ipa": "usʼu", "highlight": "sʼ" },
+        { "word": "sʼita", "lang": "Quechua", "local": "qu-PE", "ipa": "sʼita", "highlight": "sʼ" },
+        { "word": "sʼuru", "lang": "Aymara", "local": "ay-BO", "ipa": "sʼuru", "highlight": "sʼ" }
+      ]
+    }
+  ]
+}

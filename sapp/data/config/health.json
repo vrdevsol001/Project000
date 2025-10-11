@@ -1,0 +1,36 @@
+{
+    "appId": "health",
+    "bottomMenu": [
+      {
+        "label": "InicioG",
+        "icon": "home",
+        "page": "HomePage",
+        "optionRef": "Home"
+      },
+      {
+        "label": "Pulsaciones",
+        "icon": "tree",
+        "page": "HeartRatePage",
+        "optionRef": "HeartRatePage"
+      },
+      {
+        "label": "StepCounterPage",
+        "icon": "tree",
+        "page": "StepCounterPage",
+        "optionRef": "StepCounterPage"
+      }      
+    ],
+    "style": {
+      "backgroundColor": "#F5FDFB",
+      "appBarColor": "#00796B",
+      "appBarTextColor": "#FFFFFF",
+      "navBarColor": "#004D40",
+      "navBarTextColor": "#FFFFFF",
+      "drawerBackgroundColor": "#E0F2F1",
+      "drawerTextColor": "#004D40",
+      "fontSize": 18,
+      "fontFamily": "Open Sans"
+    }
+  }
+  
+  

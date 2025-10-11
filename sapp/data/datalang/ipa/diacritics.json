@@ -1,0 +1,83 @@
+{
+  "category": "Diacritics",
+  "symbols": [
+    {
+      "symbol": "n̥",
+      "name": "voiceless diacritic (◌̥)",
+      "examples": [
+        { "word": "n̥i", "lang": "Icelandic", "local": "is-IS", "ipa": "n̥i", "highlight": "n̥" },
+        { "word": "l̥i", "lang": "Tibetan", "local": "bo-CN", "ipa": "l̥i", "highlight": "l̥" },
+        { "word": "m̥a", "lang": "Welsh", "local": "cy-GB", "ipa": "m̥a", "highlight": "m̥" },
+        { "word": "r̥i", "lang": "Sanskrit", "local": "hi-IN", "ipa": "r̥i", "highlight": "r̥" },
+        { "word": "n̥a", "lang": "Hindi", "local": "hi-IN", "ipa": "n̥a", "highlight": "n̥" },
+        { "word": "s̥a", "lang": "Tibetan", "local": "bo-CN", "ipa": "s̥a", "highlight": "s̥" },
+        { "word": "ŋ̥u", "lang": "Khmer", "local": "km-KH", "ipa": "ŋ̥u", "highlight": "ŋ̥" }
+      ]
+    },
+    {
+      "symbol": "n̩",
+      "name": "syllabic diacritic (◌̩)",
+      "examples": [
+        { "word": "button", "lang": "English", "local": "en-US", "ipa": "ˈbʌtn̩", "highlight": "n̩" },
+        { "word": "bottle", "lang": "English", "local": "en-US", "ipa": "ˈbɒtl̩", "highlight": "l̩" },
+        { "word": "prism", "lang": "English", "local": "en-US", "ipa": "ˈprɪzm̩", "highlight": "m̩" },
+        { "word": "rhythm", "lang": "English", "local": "en-US", "ipa": "ˈrɪðm̩", "highlight": "m̩" },
+        { "word": "eagle", "lang": "English", "local": "en-US", "ipa": "ˈiːɡl̩", "highlight": "l̩" },
+        { "word": "prison", "lang": "English", "local": "en-US", "ipa": "ˈprɪzn̩", "highlight": "n̩" },
+        { "word": "cousin", "lang": "English", "local": "en-US", "ipa": "ˈkʌzn̩", "highlight": "n̩" }
+      ]
+    },
+    {
+      "symbol": "ã",
+      "name": "nasalization (◌̃)",
+      "examples": [
+        { "word": "mão", "lang": "Portuguese", "local": "pt-PT", "ipa": "mɐ̃w̃", "highlight": "ã" },
+        { "word": "vin", "lang": "French", "local": "fr-FR", "ipa": "vɛ̃", "highlight": "ɛ̃" },
+        { "word": "mañana", "lang": "Spanish", "local": "es-ES", "ipa": "maˈɲãna", "highlight": "ã" },
+        { "word": "não", "lang": "Portuguese", "local": "pt-PT", "ipa": "nɐ̃w̃", "highlight": "ã" },
+        { "word": "bon", "lang": "French", "local": "fr-FR", "ipa": "bɔ̃", "highlight": "ɔ̃" },
+        { "word": "hand", "lang": "English", "local": "en-US", "ipa": "hænd", "highlight": "æ̃" },
+        { "word": "pang", "lang": "English", "local": "en-US", "ipa": "pæ̃ŋ", "highlight": "æ̃" }
+      ]
+    },
+    {
+      "symbol": "aː",
+      "name": "length mark (ː)",
+      "examples": [
+        { "word": "food", "lang": "English", "local": "en-US", "ipa": "fuːd", "highlight": "uː" },
+        { "word": "sheep", "lang": "English", "local": "en-US", "ipa": "ʃiːp", "highlight": "iː" },
+        { "word": "maː", "lang": "Hindi", "local": "hi-IN", "ipa": "maː", "highlight": "aː" },
+        { "word": "toː", "lang": "Japanese", "local": "ja-JP", "ipa": "toː", "highlight": "oː" },
+        { "word": "kā", "lang": "Sanskrit", "local": "hi-IN", "ipa": "kaː", "highlight": "aː" },
+        { "word": "huː", "lang": "Swahili", "local": "sw-KE", "ipa": "huː", "highlight": "uː" },
+        { "word": "keː", "lang": "Finnish", "local": "fi-FI", "ipa": "keː", "highlight": "eː" }
+      ]
+    },
+    {
+      "symbol": "aʲ",
+      "name": "palatalization (ʲ)",
+      "examples": [
+        { "word": "матʲ", "lang": "Russian", "local": "ru-RU", "ipa": "matʲ", "highlight": "tʲ" },
+        { "word": "лʲук", "lang": "Russian", "local": "ru-RU", "ipa": "lʲuk", "highlight": "lʲ" },
+        { "word": "мʲир", "lang": "Russian", "local": "ru-RU", "ipa": "mʲir", "highlight": "mʲ" },
+        { "word": "дʲерево", "lang": "Russian", "local": "ru-RU", "ipa": "ˈdʲerʲɪvə", "highlight": "dʲ" },
+        { "word": "пʲес", "lang": "Russian", "local": "ru-RU", "ipa": "pʲes", "highlight": "pʲ" },
+        { "word": "тʲи", "lang": "Russian", "local": "ru-RU", "ipa": "tʲi", "highlight": "tʲ" },
+        { "word": "кʲи", "lang": "Russian", "local": "ru-RU", "ipa": "kʲi", "highlight": "kʲ" }
+      ]
+    },
+    {
+      "symbol": "aˤ",
+      "name": "pharyngealization (ˤ)",
+      "examples": [
+        { "word": "ṣaˤḥib", "lang": "Arabic", "local": "ar-SA", "ipa": "sˤaːħib", "highlight": "sˤ" },
+        { "word": "ḍaˤ", "lang": "Arabic", "local": "ar-SA", "ipa": "dˤa", "highlight": "dˤ" },
+        { "word": "ṭaˤlib", "lang": "Arabic", "local": "ar-SA", "ipa": "tˤaːlib", "highlight": "tˤ" },
+        { "word": "qaˤl", "lang": "Arabic", "local": "ar-SA", "ipa": "qaˤl", "highlight": "qˤ" },
+        { "word": "ʕaˤ", "lang": "Arabic", "local": "ar-SA", "ipa": "ʕaˤ", "highlight": "aˤ" },
+        { "word": "ħaˤ", "lang": "Arabic", "local": "ar-SA", "ipa": "ħaˤ", "highlight": "ħaˤ" },
+        { "word": "raˤs", "lang": "Arabic", "local": "ar-SA", "ipa": "raˤs", "highlight": "raˤ" }
+      ]
+    }
+  ]
+}

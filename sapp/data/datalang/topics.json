@@ -1,0 +1,68 @@
+{
+  "temas": [
+    {
+      "nombre": "Viaje",
+      "topics": [
+        { "id": "viaje", "titulo": "Frases para viajar.", "img": "viaje.webp", "idiomas": ["es", "en", "fr", "de", "it", "ja", "pt", "ru", "zh"] }
+      ]
+    },
+    {
+      "nombre": "Entrevista",
+      "topics": [
+        { "id": "entrevista", "titulo": "Entrevista laboral.", "img": "entrevista.webp", "idiomas": ["es", "en", "fr", "de", "it", "ja", "pt", "ru", "zh"] }
+      ]
+    },
+    {
+      "nombre": "Niños - Básico",
+      "topics": [
+        { "id": "nino01", "titulo": "Frases niños 0 a 3 .", "img": "frases_ninos_0_3.webp", "idiomas": ["es", "en", "fr", "de", "it", "ja", "pt", "ru", "zh"] },
+        { "id": "nino02", "titulo": "Frases niños 3 a 8 V1.", "img": "frases_ninos_3_8.webp", "idiomas": ["es", "en"] }
+      ]
+    },
+    {
+      "nombre": "Cuento",
+      "topics": [
+        { "id": "00cuento01", "titulo": "Un relato corto.", "img": "caperucita_roja.webp", "idiomas": ["es", "en","fr", "de", "it", "ja", "pt", "ru", "zh"] }
+      ]
+    },
+    {
+      "nombre": "Canción",
+      "topics": [
+        { "id": "05cancion01", "titulo": "En - 001.", "img": "vaso_agua.webp", "idiomas": ["es", "en"] },
+        { "id": "05cancion02", "titulo": "Ru - Kukushka.", "img": "vaso_agua.webp", "idiomas": ["es", "ru"] },
+        { "id": "05cancion03", "titulo": "En - Losing My Religion.", "img": "vaso_agua.webp", "idiomas": ["es", "en"] },
+        { "id": "05cancion04", "titulo": "Ru - Комета .", "img": "vaso_agua.webp", "idiomas": ["es", "ru"] },
+        { "id": "05cancion05", "titulo": "Ru - Непара - Другая семья.", "img": "vaso_agua.webp", "idiomas": ["es", "ru"] }
+
+
+      ]
+    },
+    {
+      "nombre": "Presentaciones y saludos",
+      "topics": [
+        { "id": "01presentacion01", "titulo": "Nuevo vecino en el edificio.", "img": "", "idiomas": ["es", "en"] },
+        { "id": "01presentacion02", "titulo": "Presentación el primer día de clases.", "img": "", "idiomas": ["es", "en"] },
+        { "id": "01presentacion03", "titulo": "Reencuentro con un viejo amigo.", "img": "", "idiomas": ["es", "en"] },
+        { "id": "01presentacion04", "titulo": "Presentarse en una fiesta.", "img": "", "idiomas": ["es", "en"] },
+        { "id": "01presentacion05", "titulo": "Charla casual en un ascensor.", "img": "", "idiomas": ["es", "en"] },
+        { "id": "01presentacion06", "titulo": "Presentación en entrevista de trabajo.", "img": "", "idiomas": ["es", "en"] },
+        { "id": "01presentacion07", "titulo": "Saludar a compañeros en el gimnasio.", "img": "", "idiomas": ["es", "en"] },
+        { "id": "01presentacion08", "titulo": "Encuentro en una reunión familiar.", "img": "", "idiomas": ["es", "en"] },
+        { "id": "01presentacion09", "titulo": "Nuevos amigos en un curso de idiomas.", "img": "", "idiomas": ["es", "en"] },
+        { "id": "01presentacion10", "titulo": "Charla corta al esperar el bus.", "img": "", "idiomas": ["es", "en"] }
+      ]
+    },
+    {
+      "nombre": "Software",
+      "topics": [
+        { "id": "09software01", "titulo": "Arquitectura en Capas.", "img": "arquitectura_software_capas.webp", "idiomas": ["es", "en"] },
+        { "id": "09software02", "titulo": "Arquitectura C4.", "img": "arquitectura_software_c4.webp", "idiomas": ["es", "en"] },
+        { "id": "09software03", "titulo": "Clean Architecture.", "img": "arquitectura_software_clean.webp", "idiomas": ["es", "en"] },
+        { "id": "09software04", "titulo": "Arquitectura Hexagonal.", "img": "", "idiomas": ["es", "en"] },
+        { "id": "09software05", "titulo": "Arquitectura Ortogonal.", "img": "", "idiomas": ["es", "en"] },
+        { "id": "09software06", "titulo": "Arquitectura SOA.", "img": "", "idiomas": ["es", "en"] },
+        { "id": "09software07", "titulo": "Arquitectura de Microservicios.", "img": "", "idiomas": ["es", "en"] }
+      ]
+    }
+  ]
+}

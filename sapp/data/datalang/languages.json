@@ -1,0 +1,47 @@
+{
+  "es": {
+    "descripcion": "Español",
+    "frase": "Domina los sonidos, domina los idiomas",
+    "locale": "es-ES"
+  },
+  "en": {
+    "descripcion": "English",
+    "frase": "Master the sounds, master every language",
+    "locale": "en-US"
+  },
+  "fr": {
+    "descripcion": "Français",
+    "frase": "Maîtrise les sons, ouvre toutes les langues",
+    "locale": "fr-FR"
+  },
+  "de": {
+    "descripcion": "Deutsch",
+    "frase": "Beherrsche die Klänge, erobere die Sprachen",
+    "locale": "de-DE"
+  },
+  "it": {
+    "descripcion": "Italiano",
+    "frase": "Domina i suoni, conquista le lingue",
+    "locale": "it-IT"
+  },
+  "ja": {
+    "descripcion": "日本語 (Japanese)",
+    "frase": "音を極めれば、言葉は自在に",
+    "locale": "ja-JP"
+  },
+  "pt": {
+    "descripcion": "Português",
+    "frase": "Domine os sons, fale todos os idiomas",
+    "locale": "pt-BR"
+  },
+  "ru": {
+    "descripcion": "Русский (Russian)",
+    "frase": "Освой звуки — открой все языки",
+    "locale": "ru-RU"
+  },
+  "zh": {
+    "descripcion": "中文 (Mandarin)",
+    "frase": "掌握声音，畅游语言世界",
+    "locale": "zh-CN"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "ipa_index": {
+      "consonants": {
+        "plosives": "plosives.json",
+        "nasals": "nasals.json",
+        "trills": "trills.json",
+        "taps_flaps": "taps_flaps.json",
+        "fricatives": "fricatives.json",
+        "lateral_fricatives": "lateral_fricatives.json",
+        "approximants": "approximants.json",
+        "laterals": "laterals.json",
+        "affricates": "affricates.json",
+        "clicks": "clicks.json",
+        "implosives": "implosives.json",
+        "ejectives": "ejectives.json"
+      },
+      "vowels": "vowels.json",
+      "diacritics": {
+        "basic": "diacritics.json",
+        "extended": "extended_diacritics.json"
+      },
+      "suprasegmentals": {
+        "general": "suprasegmentals.json",
+        "tones": "tones.json"
+      }
+    }
+  }
+  

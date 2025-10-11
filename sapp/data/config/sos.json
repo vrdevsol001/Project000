@@ -1,0 +1,42 @@
+{
+    "appId": "sos",
+    "bottomMenu": [
+      {
+        "label": "RescueDashboard",
+        "icon": "info",
+        "page": "RescueDashboardPage",
+        "optionRef": "RescueDashboard"
+      },
+      {
+        "label": "MorseComm",
+        "icon": "qr_code",
+        "page": "MorseCommPage",
+        "optionRef": "MorseComm"
+      },      
+      {
+        "label": "Diagnosis",
+        "icon": "person",
+        "page": "DiagnosisPage",
+        "optionRef": "Diagnosis"
+      },
+      {
+        "label": "SOSConfig",
+        "icon": "help",
+        "page": "SOSConfigPage",
+        "optionRef": "SOSConfig"
+      }   
+    ],
+    "style": {
+      "backgroundColor": "#FFFFFF",
+      "appBarColor": "#B91C1C",
+      "appBarTextColor": "#FFFFFF",
+      "navBarColor": "#DC2626",
+      "navBarTextColor": "#FFFFFF",
+      "drawerBackgroundColor": "#F3F4F6",
+      "drawerTextColor": "#111827",
+      "fontSize": 18,
+      "fontFamily": "Roboto"
+    }
+  }
+  
+  

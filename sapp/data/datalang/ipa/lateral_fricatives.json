@@ -1,0 +1,31 @@
+{
+  "category": "Lateral Fricatives",
+  "symbols": [
+    {
+      "symbol": "ɬ",
+      "name": "voiceless alveolar lateral fricative",
+      "examples": [
+        { "word": "Llanelli", "lang": "Welsh", "local": "cy-GB", "ipa": "ɬaˈnɛɬi", "highlight": "ɬ" },
+        { "word": "Llewelyn", "lang": "Welsh", "local": "cy-GB", "ipa": "ɬuˈɛlɪn", "highlight": "ɬ" },
+        { "word": "ɬa", "lang": "Zulu", "local": "zu-ZA", "ipa": "ɬa", "highlight": "ɬ" },
+        { "word": "uɬo", "lang": "Zulu", "local": "zu-ZA", "ipa": "uɬo", "highlight": "ɬ" },
+        { "word": "ɬam", "lang": "Xhosa", "local": "xh-ZA", "ipa": "ɬam", "highlight": "ɬ" },
+        { "word": "ɬe", "lang": "Xhosa", "local": "xh-ZA", "ipa": "ɬe", "highlight": "ɬ" },
+        { "word": "ɬu", "lang": "Zulu", "local": "zu-ZA", "ipa": "ɬu", "highlight": "ɬ" }
+      ]
+    },
+    {
+      "symbol": "ɮ",
+      "name": "voiced alveolar lateral fricative",
+      "examples": [
+        { "word": "ɮa", "lang": "Zulu", "local": "zu-ZA", "ipa": "ɮa", "highlight": "ɮ" },
+        { "word": "uɮu", "lang": "Zulu", "local": "zu-ZA", "ipa": "uɮu", "highlight": "ɮ" },
+        { "word": "ɮe", "lang": "Xhosa", "local": "xh-ZA", "ipa": "ɮe", "highlight": "ɮ" },
+        { "word": "ɮi", "lang": "Xhosa", "local": "xh-ZA", "ipa": "ɮi", "highlight": "ɮ" },
+        { "word": "ɮo", "lang": "Zulu", "local": "zu-ZA", "ipa": "ɮo", "highlight": "ɮ" },
+        { "word": "amaɮa", "lang": "Zulu", "local": "zu-ZA", "ipa": "amaɮa", "highlight": "ɮ" },
+        { "word": "ɮum", "lang": "Zulu", "local": "zu-ZA", "ipa": "ɮum", "highlight": "ɮ" }
+      ]
+    }
+  ]
+}

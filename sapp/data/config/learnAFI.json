@@ -1,0 +1,48 @@
+{
+  "bottomMenu": [
+    {
+      "icon": "home",
+      "label": "Inicio",
+      "page": "HomePage",
+      "optionRef": "inicio_01"
+    },
+    {
+      "icon": "audio",
+      "label": "PhraseSpeaker",
+      "page": "PhraseSpeakerPage",
+      "optionRef": "PhraseSpeakerPage"
+    },
+    {
+      "icon": "mic",
+      "label": "IpaLearning",
+      "page": "IpaLearningPage",
+      "optionRef": "IpaLearningPage"
+    },
+    {
+      "icon": "settings",
+      "tooltip": "IpaSettings",
+      "page": "IpaSettingsPage",
+      "optionRef": "IpaSettingsPage"
+    }    
+  ],  
+  "topActions": [
+    {
+      "icon": "settings",
+      "tooltip": "IpaSettings",
+      "page": "IpaSettingsPage",
+      "optionRef": "IpaSettingsPage"
+    }
+  ],
+  "style": {
+      "backgroundColor": "#FAFAFA",
+      "appBarColor": "#1976D2",
+      "appBarTextColor": "#FFFFFF",
+      "navBarColor": "#1565C0",
+      "navBarTextColor": "#FFFFFF",
+      "drawerBackgroundColor": "#E3F2FD",
+      "drawerTextColor": "#0D47A1",
+      "fontSize": 18,
+      "fontFamily": "Roboto"
+    }
+  
+}

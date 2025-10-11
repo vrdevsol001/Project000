@@ -1,0 +1,68 @@
+{
+    "appId": "crudv2",
+    "bottomMenu": [
+      {
+        "label": "InicioX",
+        "icon": "home",
+        "page": "HomePage",
+        "optionRef": "InicioX"
+
+      },
+      {
+        "label": "SimpleQueryPagev0",
+        "icon": "book",
+        "page": "SimpleQueryPage",
+        "optionRef": "SimpleQueryPagev0"
+      },
+      {
+        "label": "SimpleQueryPagev1",
+        "icon": "list_alt",
+        "page": "SimpleQueryPagev1",
+        "optionRef": "SimpleQueryPagev1"
+      },
+      {
+        "label": "Login config",
+        "icon": "settings",
+        "page": "ConfigPage",
+        "optionRef": "ConfigPageLogin"
+      }
+    ],    
+    "drawerMenu": [
+      {
+        "title": "Ventasx",
+        "icon": "shopping_cart",
+        "page": "SimpleQueryPage",
+        "optionRef": "shopping_cart"
+      },
+      {
+        "title": "Configuraciónx",
+        "icon": "settings",
+        "children": [
+          {
+            "title": "Lección 2x",
+            "icon": "school",
+            "page": "SettingsPage",
+            "optionRef": "school"
+          },
+          {
+            "title": "Ajustes Appx",
+            "icon": "tree",
+            "page": "SettingsPage",
+            "optionRef": "tree"
+          }
+        ]
+      }
+    ],
+    "style": {
+      "backgroundColor": "#FAF3E0",
+      "appBarColor": "#6B4226",
+      "appBarTextColor": "#FFFFFF",
+      "navBarColor": "#4E342E",
+      "navBarTextColor": "#FFFFFF",
+      "drawerBackgroundColor": "#FFF8E1",
+      "drawerTextColor": "#3E2723",
+      "fontSize": 16,
+      "fontFamily": "Roboto"
+    }
+  }
+  

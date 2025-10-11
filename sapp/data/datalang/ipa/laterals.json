@@ -1,0 +1,45 @@
+{
+  "category": "Laterals (Approximants)",
+  "symbols": [
+    {
+      "symbol": "l",
+      "name": "alveolar lateral approximant",
+      "examples": [
+        { "word": "light", "lang": "English", "local": "en-US", "ipa": "laɪt", "highlight": "l" },
+        { "word": "love", "lang": "English", "local": "en-US", "ipa": "lʌv", "highlight": "l" },
+        { "word": "luna", "lang": "Spanish", "local": "es-ES", "ipa": "ˈluna", "highlight": "l" },
+        { "word": "libro", "lang": "Italian", "local": "it-IT", "ipa": "ˈlibro", "highlight": "l" },
+        { "word": "leben", "lang": "German", "local": "de-DE", "ipa": "ˈleːbən", "highlight": "l" },
+        { "word": "lait", "lang": "French", "local": "fr-FR", "ipa": "lɛ", "highlight": "l" },
+        { "word": "луна", "lang": "Russian", "local": "ru-RU", "ipa": "lʊˈna", "highlight": "л" }
+      ]
+    },
+    {
+      "symbol": "ʎ",
+      "name": "palatal lateral approximant",
+      "examples": [
+        { "word": "calle", "lang": "Spanish", "local": "es-ES", "ipa": "ˈkaʎe", "highlight": "ʎ" },
+        { "word": "famiglia", "lang": "Italian", "local": "it-IT", "ipa": "faˈmiʎʎa", "highlight": "ʎ" },
+        { "word": "milione", "lang": "Italian", "local": "it-IT", "ipa": "miʎˈʎoːne", "highlight": "ʎ" },
+        { "word": "llama", "lang": "Spanish", "local": "es-ES", "ipa": "ˈʎama", "highlight": "ʎ" },
+        { "word": "filho", "lang": "Portuguese", "local": "pt-PT", "ipa": "ˈfiʎu", "highlight": "ʎ" },
+        { "word": "mallorquín", "lang": "Spanish", "local": "es-ES", "ipa": "maʎorˈkin", "highlight": "ʎ" },
+        { "word": "llavors", "lang": "Catalan", "local": "ca-ES", "ipa": "ʎaˈvoɾs", "highlight": "ʎ" }
+      ]
+    },
+    {
+      "symbol": "ʟ",
+      "name": "velar lateral approximant",
+      "examples": [
+        { "word": "illu", "lang": "Greenlandic", "local": "kl-GL", "ipa": "iʟu", "highlight": "ʟ" },
+        { "word": "lljóð", "lang": "Icelandic", "local": "is-IS", "ipa": "ʟjouð", "highlight": "ʟ" },
+        { "word": "llan", "lang": "Welsh", "local": "cy-GB", "ipa": "ʟan", "highlight": "ʟ" },
+        { "word": "alla", "lang": "Icelandic", "local": "is-IS", "ipa": "aʟa", "highlight": "ʟ" },
+        { "word": "kalla", "lang": "Icelandic", "local": "is-IS", "ipa": "kaʟa", "highlight": "ʟ" },
+        { "word": "pillu", "lang": "Greenlandic", "local": "kl-GL", "ipa": "piʟu", "highlight": "ʟ" },
+        { "word": "talli", "lang": "Greenlandic", "local": "kl-GL", "ipa": "taʟi", "highlight": "ʟ" }
+      ]
+      
+    }
+  ]
+}

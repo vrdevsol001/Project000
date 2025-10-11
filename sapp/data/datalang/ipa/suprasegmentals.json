@@ -1,0 +1,83 @@
+{
+  "category": "Suprasegmentals",
+  "symbols": [
+    {
+      "symbol": "ˈ",
+      "name": "primary stress",
+      "examples": [
+        { "word": "banana", "lang": "English", "local": "en-US", "ipa": "bəˈnɑːnə", "highlight": "ˈnɑː" },
+        { "word": "computer", "lang": "English", "local": "en-US", "ipa": "kəmˈpjuːtə", "highlight": "ˈpjuː" },
+        { "word": "mañana", "lang": "Spanish", "local": "es-ES", "ipa": "maˈɲana", "highlight": "ˈɲa" },
+        { "word": "parole", "lang": "French", "local": "fr-FR", "ipa": "paˈʁɔl", "highlight": "ˈʁɔl" },
+        { "word": "Familie", "lang": "German", "local": "de-DE", "ipa": "faˈmiːliə", "highlight": "ˈmiː" },
+        { "word": "ありがとう", "lang": "Japanese", "local": "ja-JP", "ipa": "aɾiˈɡatoː", "highlight": "ˈɡa" },
+        { "word": "россия", "lang": "Russian", "local": "ru-RU", "ipa": "rɐˈsʲijə", "highlight": "ˈsʲi" }
+      ]
+    },
+    {
+      "symbol": "ˌ",
+      "name": "secondary stress",
+      "examples": [
+        { "word": "pronunciation", "lang": "English", "local": "en-US", "ipa": "prəˌnʌnsiˈeɪʃən", "highlight": "ˌnʌn" },
+        { "word": "organization", "lang": "English", "local": "en-US", "ipa": "ˌɔːɡənaɪˈzeɪʃən", "highlight": "ˌɔː" },
+        { "word": "television", "lang": "English", "local": "en-US", "ipa": "ˌtelɪˈvɪʒən", "highlight": "ˌtel" },
+        { "word": "cinematografía", "lang": "Spanish", "local": "es-ES", "ipa": "ˌsinematoɣɾaˈfia", "highlight": "ˌsine" },
+        { "word": "Gegenteil", "lang": "German", "local": "de-DE", "ipa": "ˌɡeːɡn̩ˈtaɪl", "highlight": "ˌɡeː" },
+        { "word": "philosophie", "lang": "French", "local": "fr-FR", "ipa": "ˌfilozɔˈfi", "highlight": "ˌfil" },
+        { "word": "реформáтор", "lang": "Russian", "local": "ru-RU", "ipa": "ˌrʲɪfɐrˈmatər", "highlight": "ˌrʲɪ" }
+      ]
+    },
+    {
+      "symbol": "ː",
+      "name": "long",
+      "examples": [
+        { "word": "sheep", "lang": "English", "local": "en-US", "ipa": "ʃiːp", "highlight": "iː" },
+        { "word": "food", "lang": "English", "local": "en-US", "ipa": "fuːd", "highlight": "uː" },
+        { "word": "māre", "lang": "Latin", "local": "it-IT", "ipa": "maːre", "highlight": "aː" },
+        { "word": "staat", "lang": "German", "local": "de-DE", "ipa": "ʃtaːt", "highlight": "aː" },
+        { "word": "fleur", "lang": "French", "local": "fr-FR", "ipa": "flœːʁ", "highlight": "œː" },
+        { "word": "sūtra", "lang": "Sanskrit", "local": "hi-IN", "ipa": "suːt̪ɽa", "highlight": "uː" },
+        { "word": "ōkami", "lang": "Japanese", "local": "ja-JP", "ipa": "oːkami", "highlight": "oː" }
+      ]
+    },
+    {
+      "symbol": "ˑ",
+      "name": "half-long",
+      "examples": [
+        { "word": "beat", "lang": "English", "local": "en-US", "ipa": "biˑt", "highlight": "iˑ" },
+        { "word": "boot", "lang": "English", "local": "en-US", "ipa": "buˑt", "highlight": "uˑ" },
+        { "word": "made", "lang": "English", "local": "en-US", "ipa": "meˑd", "highlight": "eˑ" },
+        { "word": "laat", "lang": "Dutch", "local": "nl-NL", "ipa": "laˑt", "highlight": "aˑ" },
+        { "word": "gå", "lang": "Norwegian", "local": "no-NO", "ipa": "ɡoˑ", "highlight": "oˑ" },
+        { "word": "città", "lang": "Italian", "local": "it-IT", "ipa": "tʃitˑˈta", "highlight": "ˑ" },
+        { "word": "répétér", "lang": "French", "local": "fr-FR", "ipa": "ʁepeteˑ", "highlight": "eˑ" }
+      ]
+    },
+    {
+      "symbol": "|",
+      "name": "minor (foot) group",
+      "examples": [
+        { "word": "hello | world", "lang": "English", "local": "en-US", "ipa": "həˈloʊ | wɝːld", "highlight": "|" },
+        { "word": "veni | vidi | vici", "lang": "Latin", "local": "it-IT", "ipa": "ˈweːni | ˈwiːdi | ˈwiːki", "highlight": "|" },
+        { "word": "hola | mundo", "lang": "Spanish", "local": "es-ES", "ipa": "ˈola | ˈmundo", "highlight": "|" },
+        { "word": "guten | morgen", "lang": "German", "local": "de-DE", "ipa": "ˈɡuːtən | ˈmɔʁɡn̩", "highlight": "|" },
+        { "word": "salut | à tous", "lang": "French", "local": "fr-FR", "ipa": "saly | a tus", "highlight": "|" },
+        { "word": "cześć | wam", "lang": "Polish", "local": "pl-PL", "ipa": "tʂɛɕt͡ɕ | vam", "highlight": "|" },
+        { "word": "dobro | jutro", "lang": "Serbo-Croatian", "local": "sr-RS", "ipa": "dǒbro | jûːtro", "highlight": "|" }
+      ]
+    },
+    {
+      "symbol": "‖",
+      "name": "major (intonation) group",
+      "examples": [
+        { "word": "once upon a time ‖ there was a king", "lang": "English", "local": "en-US", "ipa": "wʌns əˈpɒn ə taɪm ‖ ðɛɹ wəz ə kɪŋ", "highlight": "‖" },
+        { "word": "veni, vidi, vici ‖ finem", "lang": "Latin", "local": "it-IT", "ipa": "ˈweːni, ˈwiːdi, ˈwiːki ‖ ˈfinem", "highlight": "‖" },
+        { "word": "érase una vez ‖ un rey", "lang": "Spanish", "local": "es-ES", "ipa": "ˈeɾase una βeθ ‖ un rej", "highlight": "‖" },
+        { "word": "il était une fois ‖ un roi", "lang": "French", "local": "fr-FR", "ipa": "il etɛt‖ œ̃ rwa", "highlight": "‖" },
+        { "word": "es war einmal ‖ ein König", "lang": "German", "local": "de-DE", "ipa": "ɛs vaːɐ̯ ˈaɪnmaːl ‖ aɪn ˈkøːnɪç", "highlight": "‖" },
+        { "word": "жили-были ‖ царь", "lang": "Russian", "local": "ru-RU", "ipa": "ˈʐilʲi ˈbɨlʲi ‖ t͡sarʲ", "highlight": "‖" },
+        { "word": "むかしむかし ‖ 王様", "lang": "Japanese", "local": "ja-JP", "ipa": "mukashi mukashi ‖ oːsama", "highlight": "‖" }
+      ]
+    }
+  ]
+}

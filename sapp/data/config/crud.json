@@ -1,0 +1,97 @@
+{
+  "bottomMenu": [
+    {
+      "icon": "home",
+      "label": "Inicio",
+      "page": "HomePage",
+      "optionRef": "inicio_01"
+    },
+    {
+      "icon": "coffee-beans",
+      "label": "ProcesoSQP",
+      "page": "SimpleQueryPage",
+      "optionRef": "proceso_02"
+    },
+    {
+      "icon": "attach_money",
+      "label": "VentasMQP",
+      "page": "MultiQueryPage",
+      "optionRef": "ventas_03"
+    }
+  ],
+  "drawerMenu": [
+    {
+      "title": "Unidad 1",
+      "icon": "book",
+      "children": [
+        {
+          "title": "Chart",
+          "icon": "menu_book",
+          "page": "SimpleChartPage",
+          "optionRef": "SCP_v1"
+        },
+        {
+          "title": "Map",
+          "icon": "menu_book",
+          "page": "SimpleMapPage",
+          "optionRef": "unidad1_leccion2"
+        },
+        {
+          "title": "Conf1QueryPage",
+          "icon": "menu_book",
+          "page": "Conf1QueryPage",
+          "optionRef": "unidad1_leccion2"
+        }
+      ]
+    },
+    {
+      "title": "Unidad 2",
+      "icon": "book",
+      "children": [
+        {
+          "title": "Lección 1 UPDP",
+          "icon": "menu_book",
+          "page": "UpdDataPage",
+          "optionRef": "unidad2_leccion1"
+        },
+        {
+          "title": "Lección 2 SimpleQueryPage",
+          "icon": "menu_book",
+          "page": "SimpleQueryPage",
+          "optionRef": "unidad2_leccion2"
+        }
+      ]
+    },
+    {
+      "title": "Configuración",
+      "icon": "settings",
+      "page": "SettingsPage",
+      "optionRef": "configuracion"
+    }
+  ],  
+  "topActions": [
+    {
+      "icon": "menu_book",
+      "tooltip": "Ir a Lección 1",
+      "page": "SimpleQueryPage",
+      "optionRef": "top_leccion1"
+    },
+    {
+      "icon": "settings",
+      "tooltip": "Ajustes",
+      "page": "SettingsPage",
+      "optionRef": "top_settings"
+    }
+  ],
+  "style": {
+    "backgroundColor": "#F9FAFB",
+    "appBarColor": "#1E3A8A",
+    "appBarTextColor": "#FFFFFF",
+    "navBarColor": "#1E40AF",
+    "navBarTextColor": "#FFFFFF",
+    "drawerBackgroundColor": "#E5E7EB",
+    "drawerTextColor": "#111827",
+    "fontSize": 16,
+    "fontFamily": "Roboto"
+  }
+}

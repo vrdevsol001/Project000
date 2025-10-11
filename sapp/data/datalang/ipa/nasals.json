@@ -1,0 +1,83 @@
+{
+  "category": "Nasals",
+  "symbols": [
+    {
+      "symbol": "m",
+      "name": "bilabial nasal",
+      "examples": [
+        { "word": "man",    "lang": "English", "local": "en-US", "ipa": "mæn",     "highlight": "m" },
+        { "word": "mère",   "lang": "French",  "local": "fr-FR", "ipa": "mɛʁ",     "highlight": "m" },
+        { "word": "madre",  "lang": "Spanish", "local": "es-ES", "ipa": "ˈmaðɾe",  "highlight": "m" },
+        { "word": "Mutter", "lang": "German",  "local": "de-DE", "ipa": "ˈmʊtɐ",   "highlight": "M" },
+        { "word": "mão",    "lang": "Portuguese","local":"pt-PT","ipa": "mɐ̃w̃",   "highlight": "m" },
+        { "word": "mirai",  "lang": "Japanese","local": "ja-JP", "ipa": "miɾai",   "highlight": "m" },
+        { "word": "мир",    "lang": "Russian","local": "ru-RU",  "ipa": "mir",     "highlight": "м" }
+      ]
+    },
+    {
+      "symbol": "n",
+      "name": "alveolar nasal",
+      "examples": [
+        { "word": "no",     "lang": "English", "local": "en-US", "ipa": "noʊ",    "highlight": "n" },
+        { "word": "noche",  "lang": "Spanish", "local": "es-ES", "ipa": "ˈnotʃe", "highlight": "n" },
+        { "word": "neuf",   "lang": "French",  "local": "fr-FR", "ipa": "nœf",    "highlight": "n" },
+        { "word": "nome",   "lang": "Italian", "local": "it-IT", "ipa": "ˈnoːme", "highlight": "n" },
+        { "word": "nine",   "lang": "English", "local": "en-US", "ipa": "naɪn",   "highlight": "n" },
+        { "word": "nous",   "lang": "French",  "local": "fr-FR", "ipa": "nu",     "highlight": "n" },
+        { "word": "nada",   "lang": "Spanish", "local": "es-ES", "ipa": "ˈnaða",  "highlight": "n" }
+      ]
+    },
+    {
+      "symbol": "ɲ",
+      "name": "palatal nasal",
+      "examples": [
+        { "word": "señor",    "lang": "Spanish", "local": "es-ES", "ipa": "seˈɲoɾ",  "highlight": "ñ" },
+        { "word": "agneau",   "lang": "French",  "local": "fr-FR", "ipa": "aɲo",     "highlight": "gn" },
+        { "word": "gnocchi",  "lang": "Italian", "local": "it-IT", "ipa": "ˈɲɔkki",  "highlight": "gn" },
+        { "word": "montagne", "lang": "French",  "local": "fr-FR", "ipa": "mɔ̃taɲ",  "highlight": "gn" },
+        { "word": "niño",     "lang": "Spanish", "local": "es-ES", "ipa": "ˈniɲo",   "highlight": "ñ" },
+        { "word": "compagnia","lang": "Italian", "local": "it-IT", "ipa": "komˈpaɲɲa","highlight": "gn" },
+        { "word": "baño",     "lang": "Spanish", "local": "es-ES", "ipa": "ˈbaɲo",   "highlight": "ñ" }
+      ]
+    },
+    {
+      "symbol": "ŋ",
+      "name": "velar nasal",
+      "examples": [
+        { "word": "sing",    "lang": "English", "local": "en-US", "ipa": "sɪŋ",     "highlight": "ng" },
+        { "word": "song",    "lang": "English", "local": "en-US", "ipa": "sɒŋ",     "highlight": "ng" },
+        { "word": "king",    "lang": "English", "local": "en-US", "ipa": "kɪŋ",     "highlight": "ng" },
+        { "word": "bringen", "lang": "German",  "local": "de-DE", "ipa": "ˈbrɪŋən", "highlight": "ng" },
+        { "word": "manga",   "lang": "Japanese","local": "ja-JP", "ipa": "maŋɡa",   "highlight": "ng" },
+        { "word": "tango",   "lang": "Spanish", "local": "es-ES", "ipa": "ˈtaŋɡo",  "highlight": "ng" },
+        { "word": "long",    "lang": "English", "local": "en-US", "ipa": "lɒŋ",     "highlight": "ng" }
+      ]
+    },
+    {
+      "symbol": "ɳ",
+      "name": "retroflex nasal",
+      "examples": [
+        { "word": "बड़ा",   "lang": "Hindi",    "local": "hi-IN", "ipa": "bəɽaː",      "highlight": "ɳ" },
+        { "word": "ताण",    "lang": "Marathi",  "local": "mr-IN", "ipa": "ʈaːɳ",       "highlight": "ɳ" },
+        { "word": "पाणि",   "lang": "Nepali",   "local": "ne-NP", "ipa": "paɳi",       "highlight": "ɳ" },
+        { "word": "தண்ணீர்","lang": "Tamil",    "local": "ta-IN", "ipa": "taɳɳiːr",    "highlight": "ɳ" },
+        { "word": "ಹಣ್ಣು",   "lang": "Kannada",  "local": "kn-IN", "ipa": "haɳɳu",      "highlight": "ɳ" },
+        { "word": "റാണി",   "lang": "Malayalam","local": "ml-IN", "ipa": "raːɳi",      "highlight": "ɳ" },
+        { "word": "ణమస్కారం","lang": "Telugu",   "local": "te-IN", "ipa": "ɳamaskaːrəm","highlight": "ɳ" }
+      ]
+    },
+    {
+      "symbol": "ɴ",
+      "name": "uvular nasal",
+      "examples": [
+        { "word": "Kalaallit", "lang": "Greenlandic","local": "kl-GL", "ipa": "kaɴalit",  "highlight": "ɴ" },
+        { "word": "qaɴɴiq",   "lang": "Inuktitut",  "local": "iu-CA",  "ipa": "qaɴɴiq",   "highlight": "ɴ" },
+        { "word": "umiyaɴ",   "lang": "Inuktitut",  "local": "iu-CA",  "ipa": "umiyaɴ",   "highlight": "ɴ" },
+        { "word": "aɴɴuraaq","lang": "Inuktitut",  "local": "iu-CA",  "ipa": "aɴɴuraaq", "highlight": "ɴ" },
+        { "word": "ɴaq",      "lang": "Inuktitut",  "local": "iu-CA",  "ipa": "ɴaq",      "highlight": "ɴ" },
+        { "word": "Narsaq",   "lang": "Greenlandic","local": "kl-GL", "ipa": "ɴarsaq",   "highlight": "ɴ" },
+        { "word": "Nuuk",     "lang": "Greenlandic","local": "kl-GL", "ipa": "ɴuːk",     "highlight": "ɴ" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+    "saludo_inicial_1": {"texto":"Hi! Is this your first class here?","fonetica":"haɪ ɪz ðɪs jʊr fɜrst klæs hɪr"},
+    "saludo_inicial_2": {"texto":"Good afternoon, are you coming to the language course?","fonetica":"ɡʊd ˌæftɚˈnun ɑr ju ˈkʌmɪŋ tu ðə ˈlæŋɡwɪdʒ kɔrs"},
+    "respuesta_inicial_1": {"texto":"Yes, it’s my first time","fonetica":"jɛs ɪts maɪ fɜrst taɪm"},
+    "respuesta_inicial_2": {"texto":"No, I’ve already taken a few classes","fonetica":"noʊ aɪv ɔlˈrɛdi ˈteɪkən ə fju ˈklæsəz"},
+    
+    "pregunta_nombre_1": {"texto":"What’s your name?","fonetica":"wʌts jʊr neɪm"},
+    "respuesta_nombre_1": {"texto":"My name is Anna","fonetica":"maɪ neɪm ɪz ˈænə"},
+    "respuesta_nombre_2": {"texto":"I’m Carlos, nice to meet you","fonetica":"aɪm ˈkɑrləs naɪs tə mit ju"},
+    "comentario_nombre_1": {"texto":"Nice to meet you too","fonetica":"naɪs tə mit ju tu"},
+    
+    "pregunta_origen_1": {"texto":"Where are you from?","fonetica":"wɛr ɑr ju frʌm"},
+    "respuesta_origen_1": {"texto":"I’m from Mexico","fonetica":"aɪm frʌm ˈmɛksɪkoʊ"},
+    "respuesta_origen_2": {"texto":"I’m from Colombia","fonetica":"aɪm frʌm kəˈlʌmbiə"},
+    "comentario_origen_1": {"texto":"That’s a beautiful country","fonetica":"ðæts ə ˈbjuːtəfəl ˈkʌntri"},
+    
+    "pregunta_razon_1": {"texto":"Why did you decide to study languages?","fonetica":"waɪ dɪd ju dɪˈsaɪd tə ˈstʌdi ˈlæŋɡwɪdʒɪz"},
+    "respuesta_razon_1": {"texto":"Because I want to travel","fonetica":"bɪˈkəz aɪ wɑnt tə ˈtrævəl"},
+    "respuesta_razon_2": {"texto":"Because I need it for my job","fonetica":"bɪˈkəz aɪ nid ɪt fɔr maɪ dʒɑb"},
+    "comentario_razon_1": {"texto":"That’s a great motivation","fonetica":"ðæts ə ɡreɪt ˌmoʊtəˈveɪʃən"},
+    
+    "pregunta_experiencia_1": {"texto":"Have you studied before?","fonetica":"hæv ju ˈstʌdid bɪˈfɔr"},
+    "respuesta_experiencia_1": {"texto":"Yes, a little in school","fonetica":"jɛs ə ˈlɪtəl ɪn skul"},
+    "respuesta_experiencia_2": {"texto":"No, this is my first time","fonetica":"noʊ ðɪs ɪz maɪ fɜrst taɪm"},
+    "comentario_experiencia_1": {"texto":"Great, everyone starts somewhere","fonetica":"ɡreɪt ˈɛvrɪwʌn stɑrts ˈsʌmˌwɛr"},
+    
+    "pregunta_idioma_1": {"texto":"Which language are you learning?","fonetica":"wɪtʃ ˈlæŋɡwɪdʒ ɑr ju ˈlɜrnɪŋ"},
+    "respuesta_idioma_1": {"texto":"I’m learning English","fonetica":"aɪm ˈlɜrnɪŋ ˈɪŋɡlɪʃ"},
+    "respuesta_idioma_2": {"texto":"I want to improve my French","fonetica":"aɪ wɑnt tə ɪmˈpruv maɪ frɛntʃ"},
+    "comentario_idioma_1": {"texto":"Those are very useful languages","fonetica":"ðoʊz ɑr ˈvɛri ˈjusfəl ˈlæŋɡwɪdʒɪz"},
+    
+    "pregunta_profesor_1": {"texto":"What do you think of the teacher?","fonetica":"wʌt dʊ ju θɪŋk əv ðə ˈtiʧɚ"},
+    "respuesta_profesor_1": {"texto":"He explains very clearly","fonetica":"hi ɪkˈspleɪnz ˈvɛri ˈklɪrli"},
+    "respuesta_profesor_2": {"texto":"He has a lot of patience","fonetica":"hi hæz ə lɑt əv ˈpeɪʃəns"},
+    "comentario_profesor_1": {"texto":"That really helps with learning","fonetica":"ðæt ˈrɪli hɛlps wɪð ˈlɜrnɪŋ"},
+    
+    "pregunta_hobby_1": {"texto":"What do you like to do in your free time?","fonetica":"wʌt dʊ ju laɪk tə du ɪn jʊr fri taɪm"},
+    "respuesta_hobby_1": {"texto":"I like reading and listening to music","fonetica":"aɪ laɪk ˈridiŋ ænd ˈlɪsənɪŋ tə ˈmjuzɪk"},
+    "respuesta_hobby_2": {"texto":"I prefer playing sports","fonetica":"aɪ prɪˈfɜr ˈpleɪɪŋ spɔrts"},
+    "comentario_hobby_1": {"texto":"That sounds fun","fonetica":"ðæt saʊndz fʌn"},
+    
+    "pregunta_meta_1": {"texto":"What’s your goal with this course?","fonetica":"wʌts jʊr ɡoʊl wɪð ðɪs kɔrs"},
+    "respuesta_meta_1": {"texto":"I want to speak with more confidence","fonetica":"aɪ wɑnt tə spik wɪð mɔr ˈkɑnfɪdəns"},
+    "respuesta_meta_2": {"texto":"My goal is to pass the official exam","fonetica":"maɪ ɡoʊl ɪz tə pæs ði əˈfɪʃəl ɪɡˈzæm"},
+    "comentario_meta_1": {"texto":"Excellent objective","fonetica":"ˈɛksələnt əbˈdʒɛktɪv"},
+    
+    "pregunta_amigos_1": {"texto":"Do you already know anyone else in the class?","fonetica":"du ju ɔlˈrɛdi noʊ ˈɛniwʌn ɛls ɪn ðə klæs"},
+    "respuesta_amigos_1": {"texto":"No, I’m just getting to know people","fonetica":"noʊ aɪm dʒʌst ˈɡɛtɪŋ tə noʊ ˈpipəl"},
+    "respuesta_amigos_2": {"texto":"Yes, I made a friend last week","fonetica":"jɛs aɪ meɪd ə frɛnd læst wik"},
+    "comentario_amigos_1": {"texto":"Great, you’ll make more friends here for sure","fonetica":"ɡreɪt jul meɪk mɔr frɛndz hɪr fɔr ʃʊr"},
+    
+    "pregunta_contacto_1": {"texto":"Would you like to exchange contact numbers?","fonetica":"wʊd ju laɪk tu ɪksˈʧeɪndʒ ˈkɑntækt ˈnʌmbərz"},
+    "respuesta_contacto_1": {"texto":"Sure, I’ll give you my number","fonetica":"ʃʊr aɪl ɡɪv ju maɪ ˈnʌmbɚ"},
+    "respuesta_contacto_2": {"texto":"Let’s exchange Instagram instead","fonetica":"lɛts ɪksˈʧeɪndʒ ˈɪnstəˌɡræm ɪnˈstɛd"},
+    "comentario_contacto_1": {"texto":"Perfect, that way we can stay in touch","fonetica":"ˈpɜrfɪkt ðæt weɪ wi kæn steɪ ɪn tʌtʃ"},
+    
+    "despedida_amistosa_1": {"texto":"It was nice meeting you","fonetica":"ɪt wəz naɪs ˈmitɪŋ ju"},
+    "despedida_amistosa_2": {"texto":"See you in the next class","fonetica":"si ju ɪn ðə nɛkst klæs"},
+    "despedida_amistosa_3": {"texto":"Have a great day!","fonetica":"hæv ə ɡreɪt deɪ"},
+    
+    "comentario_motivacion_2": {"texto":"I'm glad we're in the same group","fonetica":"aɪm glæd wɪər ɪn ðə seɪm ɡruːp"},
+    "respuesta_motivacion_2": {"texto":"Yes, it will be easier to practice together","fonetica":"jɛs ɪt wɪl bi ˈiːziər tu ˈpræktɪs təˈɡɛðər"},
+  
+    "pregunta_ciudad_1": {"texto":"Do you live near here?","fonetica":"du ju lɪv nɪr hɪər"},
+    "respuesta_ciudad_1": {"texto":"Yes, just a few blocks away","fonetica":"jɛs dʒʌst ə fju blɑks əˈweɪ"},
+    "respuesta_ciudad_2": {"texto":"No, I come by bus from far away","fonetica":"noʊ aɪ kʌm baɪ bʌs frʌm fɑr əˈweɪ"},
+  
+    "comentario_ciudad_1": {"texto":"That must be tiring coming from so far","fonetica":"ðæt mʌst bi ˈtaɪrɪŋ ˈkʌmɪŋ frʌm soʊ fɑr"},
+    "respuesta_ciudad_3": {"texto":"A little, but it's worth it","fonetica":"ə ˈlɪtl bʌt ɪts wɜrθ ɪt"},
+  
+    "pregunta_estudios_1": {"texto":"What do you study besides languages?","fonetica":"wʌt du ju ˈstʌdi bɪˈsaɪdz ˈlæŋɡwɪdʒɪz"},
+    "respuesta_estudios_1": {"texto":"I study engineering","fonetica":"aɪ ˈstʌdi ˌɛnʤəˈnɪərɪŋ"},
+    "respuesta_estudios_2": {"texto":"I'm in medical school","fonetica":"aɪm ɪn ˈmɛdɪkl skul"},
+  
+    "comentario_estudios_1": {"texto":"That sounds very interesting","fonetica":"ðæt saʊndz ˈvɛri ˈɪntrəstɪŋ"},
+    "respuesta_estudios_3": {"texto":"Yes, though it's sometimes difficult","fonetica":"jɛs ðoʊ ɪts ˈsʌmtaɪmz ˈdɪfəkəlt"},
+  
+    "pregunta_practica_1": {"texto":"Do you practice the language outside of class?","fonetica":"du ju ˈpræktɪs ðə ˈlæŋɡwɪdʒ aʊtˈsaɪd əv klæs"},
+    "respuesta_practica_1": {"texto":"Yes, I watch movies without subtitles","fonetica":"jɛs aɪ wɑʧ ˈmuːviz wɪˈðaʊt ˈsʌbˌtaɪtlz"},
+    "respuesta_practica_2": {"texto":"I listen to music and podcasts","fonetica":"aɪ ˈlɪsən tu ˈmjuzɪk ænd ˈpɑdkæsts"},
+  
+    "comentario_practica_1": {"texto":"That helps a lot to improve","fonetica":"ðæt hɛlps ə lɑt tu ɪmˈpruv"},
+  
+    "pregunta_comida_1": {"texto":"Do you like the traditional food of your country?","fonetica":"du ju laɪk ðə trəˈdɪʃənl fud əv jɔr ˈkʌntri"},
+    "respuesta_comida_1": {"texto":"Yes, I love homemade food","fonetica":"jɛs aɪ lʌv hoʊmˈmeɪd fud"},
+    "respuesta_comida_2": {"texto":"Sometimes I miss the local flavors","fonetica":"ˈsʌmˌtaɪmz aɪ mɪs ðə ˈloʊkəl ˈfleɪvərz"},
+  
+    "comentario_comida_1": {"texto":"You should invite us to try it someday","fonetica":"ju ʃʊd ɪnˈvaɪt ʌs tu traɪ ɪt ˈsʌmˌdeɪ"},
+    "respuesta_comida_3": {"texto":"Sure, it would be a pleasure","fonetica":"ʃʊr ɪt wʊd bi ə ˈplɛʒər"},
+  
+    "pregunta_viajes_1": {"texto":"Have you traveled to any foreign country?","fonetica":"hæv ju ˈtrævəld tu ˈɛni ˈfɔrən ˈkʌntri"},
+    "respuesta_viajes_1": {"texto":"Yes, I was in Spain last year","fonetica":"jɛs aɪ wʌz ɪn speɪn læst jɪr"},
+    "respuesta_viajes_2": {"texto":"No, but I would like to go soon","fonetica":"noʊ bʌt aɪ wʊd laɪk tu ɡoʊ sun"},
+  
+    "comentario_viajes_1": {"texto":"Traveling helps a lot with languages","fonetica":"ˈtrævəlɪŋ hɛlps ə lɑt wɪð ˈlæŋɡwɪdʒɪz"},
+  
+    "pregunta_deporte_1": {"texto":"Do you practice any sport?","fonetica":"du ju ˈpræktɪs ˈɛni spɔrt"},
+    "respuesta_deporte_1": {"texto":"Yes, I play soccer on weekends","fonetica":"jɛs aɪ pleɪ ˈsɑkər ɑn ˈwiˌkɛndz"},
+    "respuesta_deporte_2": {"texto":"I prefer swimming in the pool","fonetica":"aɪ prɪˈfɜr ˈswɪmɪŋ ɪn ðə pul"},
+  
+    "comentario_deporte_1": {"texto":"That's very healthy!","fonetica":"ðæts ˈvɛri ˈhɛlθi"},
+  
+    "pregunta_familia_1": {"texto":"Do you have brothers or sisters?","fonetica":"du ju hæv ˈbrʌðərz ɔr ˈsɪstərz"},
+    "respuesta_familia_1": {"texto":"Yes, I have two brothers","fonetica":"jɛs aɪ hæv tu ˈbrʌðərz"},
+    "respuesta_familia_2": {"texto":"I'm an only child","fonetica":"aɪm ən ˈoʊnli ʧaɪld"},
+  
+    "comentario_familia_1": {"texto":"It must be fun to have siblings","fonetica":"ɪt mʌst bi fʌn tu hæv ˈsɪblɪŋz"},
+    "comentario_familia_2": {"texto":"It's also nice to be an only child","fonetica":"ɪts ˈɔlsoʊ naɪs tu bi ən ˈoʊnli ʧaɪld"},
+  
+    "pregunta_eventos_1": {"texto":"Do you attend cultural events?","fonetica":"du ju əˈtɛnd ˈkʌlʧərəl ɪˈvɛnts"},
+    "respuesta_eventos_1": {"texto":"Yes, I like going to concerts","fonetica":"jɛs aɪ laɪk ˈɡoʊɪŋ tu ˈkɑnsərts"},
+    "respuesta_eventos_2": {"texto":"I prefer theater plays","fonetica":"aɪ prɪˈfɜr ˈθiətər pleɪz"},
+  
+    "comentario_eventos_1": {"texto":"That's very enriching","fonetica":"ðæts ˈvɛri ɛnˈrɪʧɪŋ"},
+  
+    "pregunta_futuro_1": {"texto":"What would you like to do after the course?","fonetica":"wʌt wʊd ju laɪk tu du ˈæftər ðə kɔrs"},
+    "respuesta_futuro_1": {"texto":"Travel abroad","fonetica":"ˈtrævəl əˈbrɔd"},
+    "respuesta_futuro_2": {"texto":"Get a better job","fonetica":"ɡɛt ə ˈbɛtər ʤɑb"},
+  
+    "comentario_futuro_1": {"texto":"I'm sure you'll achieve it","fonetica":"aɪm ʃʊr jul əˈʧiv ɪt"},
+  
+    "despedida_amigos_1": {"texto":"It was very nice talking with you","fonetica":"ɪt wʌz ˈvɛri naɪs ˈtɔkɪŋ wɪð ju"},
+    "despedida_amigos_2": {"texto":"See you tomorrow in class","fonetica":"si ju təˈmɑroʊ ɪn klæs"},
+    "despedida_amigos_3": {"texto":"Have a lovely afternoon!","fonetica":"hæv ə ˈlʌvli ˌæftərˈnun"}
+  }
+   
