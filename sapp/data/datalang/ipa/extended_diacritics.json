@@ -1,0 +1,135 @@
+{
+  "category": "Extended Diacritics",
+  "symbols": [
+    {
+      "symbol": "ʰ",
+      "name": "aspirated",
+      "examples": [
+        { "word": "pat", "lang": "English", "local": "en-US", "ipa": "pʰæt", "highlight": "pʰ" },
+        { "word": "top", "lang": "English", "local": "en-US", "ipa": "tʰɑp", "highlight": "tʰ" },
+        { "word": "cat", "lang": "English", "local": "en-US", "ipa": "kʰæt", "highlight": "kʰ" },
+        { "word": "khan", "lang": "Hindi", "local": "hi-IN", "ipa": "kʰaːn", "highlight": "kʰ" },
+        { "word": "phal", "lang": "Hindi", "local": "hi-IN", "ipa": "pʰal", "highlight": "pʰ" },
+        { "word": "kho", "lang": "Hindi", "local": "hi-IN", "ipa": "kʰoː", "highlight": "kʰ" },
+        { "word": "khi", "lang": "Hindi", "local": "hi-IN", "ipa": "kʰi", "highlight": "kʰ" }
+      ]
+    },
+    {
+      "symbol": "ⁿ",
+      "name": "nasal release",
+      "examples": [
+        { "word": "sudden", "lang": "English", "local": "en-US", "ipa": "sʌdⁿ", "highlight": "dⁿ" },
+        { "word": "ladn", "lang": "English", "local": "en-US", "ipa": "lædⁿ", "highlight": "dⁿ" },
+        { "word": "hidden", "lang": "English", "local": "en-US", "ipa": "hɪdⁿ", "highlight": "dⁿ" },
+        { "word": "button", "lang": "English", "local": "en-US", "ipa": "bʌtⁿ", "highlight": "tⁿ" },
+        { "word": "cotton", "lang": "English", "local": "en-US", "ipa": "kɑtⁿ", "highlight": "tⁿ" },
+        { "word": "ridden", "lang": "English", "local": "en-US", "ipa": "ɹɪdⁿ", "highlight": "dⁿ" },
+        { "word": "garden", "lang": "English", "local": "en-US", "ipa": "ɡɑɹdⁿ", "highlight": "dⁿ" }
+      ]
+    },
+    {
+      "symbol": "ˡ",
+      "name": "lateral release",
+      "examples": [
+        { "word": "middle", "lang": "English", "local": "en-US", "ipa": "mɪdˡ", "highlight": "dˡ" },
+        { "word": "bottle", "lang": "English", "local": "en-US", "ipa": "bɒtˡ", "highlight": "tˡ" },
+        { "word": "paddle", "lang": "English", "local": "en-US", "ipa": "pædˡ", "highlight": "dˡ" },
+        { "word": "little", "lang": "English", "local": "en-US", "ipa": "lɪtˡ", "highlight": "tˡ" },
+        { "word": "kettle", "lang": "English", "local": "en-US", "ipa": "kɛtˡ", "highlight": "tˡ" },
+        { "word": "cuddle", "lang": "English", "local": "en-US", "ipa": "kʌdˡ", "highlight": "dˡ" },
+        { "word": "title", "lang": "English", "local": "en-US", "ipa": "taɪtˡ", "highlight": "tˡ" }
+      ]
+    },
+    {
+      "symbol": "̚",
+      "name": "no audible release",
+      "examples": [
+        { "word": "sit", "lang": "English", "local": "en-US", "ipa": "sɪt̚", "highlight": "t̚" },
+        { "word": "bad", "lang": "English", "local": "en-US", "ipa": "bæd̚", "highlight": "d̚" },
+        { "word": "cap", "lang": "English", "local": "en-US", "ipa": "kæp̚", "highlight": "p̚" },
+        { "word": "dog", "lang": "English", "local": "en-US", "ipa": "dɑɡ̚", "highlight": "ɡ̚" },
+        { "word": "back", "lang": "English", "local": "en-US", "ipa": "bæk̚", "highlight": "k̚" },
+        { "word": "red", "lang": "English", "local": "en-US", "ipa": "ɹɛd̚", "highlight": "d̚" },
+        { "word": "cat", "lang": "English", "local": "en-US", "ipa": "kæt̚", "highlight": "t̚" }
+      ]
+    },
+    {
+      "symbol": "̤",
+      "name": "breathy voice",
+      "examples": [
+        { "word": "bhal", "lang": "Hindi", "local": "hi-IN", "ipa": "b̤ʱal", "highlight": "b̤ʱ" },
+        { "word": "ghar", "lang": "Hindi", "local": "hi-IN", "ipa": "ɡ̤ʱər", "highlight": "ɡ̤ʱ" },
+        { "word": "phir", "lang": "Hindi", "local": "hi-IN", "ipa": "pʰ̤ir", "highlight": "pʰ̤" },
+        { "word": "dhan", "lang": "Hindi", "local": "hi-IN", "ipa": "d̤ʱən", "highlight": "d̤ʱ" },
+        { "word": "bhai", "lang": "Hindi", "local": "hi-IN", "ipa": "b̤ʱaɪ", "highlight": "b̤ʱ" },
+        { "word": "ghazal", "lang": "Hindi", "local": "hi-IN", "ipa": "ɡ̤ʱəzəl", "highlight": "ɡ̤ʱ" },
+        { "word": "bhoj", "lang": "Hindi", "local": "hi-IN", "ipa": "b̤ʱoːd͡ʒ", "highlight": "b̤ʱ" }
+      ]
+    },
+    {
+      "symbol": "̰",
+      "name": "creaky voice",
+      "examples": [
+        { "word": "ma", "lang": "English", "local": "en-US", "ipa": "ma̰", "highlight": "a̰" },
+        { "word": "uh", "lang": "English", "local": "en-US", "ipa": "ʌ̰", "highlight": "ʌ̰" },
+        { "word": "no", "lang": "English", "local": "en-US", "ipa": "no̰", "highlight": "o̰" },
+        { "word": "ha", "lang": "English", "local": "en-US", "ipa": "ha̰", "highlight": "a̰" },
+        { "word": "see", "lang": "English", "local": "en-US", "ipa": "sḭː", "highlight": "ḭ" },
+        { "word": "go", "lang": "English", "local": "en-US", "ipa": "ɡo̰", "highlight": "o̰" },
+        { "word": "uhh", "lang": "English", "local": "en-US", "ipa": "ə̰", "highlight": "ə̰" }
+      ]
+    },
+    {
+      "symbol": "ˠ",
+      "name": "velarized",
+      "examples": [
+        { "word": "loon", "lang": "English", "local": "en-US", "ipa": "ɫuːn", "highlight": "ɫ" },
+        { "word": "full", "lang": "English", "local": "en-US", "ipa": "fʊɫ", "highlight": "ɫ" },
+        { "word": "call", "lang": "English", "local": "en-US", "ipa": "kɔːɫ", "highlight": "ɫ" },
+        { "word": "ball", "lang": "English", "local": "en-US", "ipa": "bɔːɫ", "highlight": "ɫ" },
+        { "word": "feel", "lang": "English", "local": "en-US", "ipa": "fiːɫ", "highlight": "ɫ" },
+        { "word": "well", "lang": "English", "local": "en-US", "ipa": "wɛɫ", "highlight": "ɫ" },
+        { "word": "tell", "lang": "English", "local": "en-US", "ipa": "tɛɫ", "highlight": "ɫ" }
+      ]
+    },
+    {
+      "symbol": "ˤ",
+      "name": "pharyngealized",
+      "examples": [
+        { "word": "ṣaḥr", "lang": "Arabic", "local": "ar-SA", "ipa": "sˤɑħr", "highlight": "sˤ" },
+        { "word": "ṭalib", "lang": "Arabic", "local": "ar-SA", "ipa": "tˤaːlib", "highlight": "tˤ" },
+        { "word": "ḍarb", "lang": "Arabic", "local": "ar-SA", "ipa": "dˤarb", "highlight": "dˤ" },
+        { "word": "qaṣr", "lang": "Arabic", "local": "ar-SA", "ipa": "qɑsˤr", "highlight": "sˤ" },
+        { "word": "ẓulm", "lang": "Arabic", "local": "ar-SA", "ipa": "zˤulm", "highlight": "zˤ" },
+        { "word": "ṣabāḥ", "lang": "Arabic", "local": "ar-SA", "ipa": "sˤɑbɑːħ", "highlight": "sˤ" },
+        { "word": "ṭayyib", "lang": "Arabic", "local": "ar-SA", "ipa": "tˤajjib", "highlight": "tˤ" }
+      ]
+    },
+    {
+      "symbol": "̟",
+      "name": "advanced",
+      "examples": [
+        { "word": "tea", "lang": "English", "local": "en-US", "ipa": "t̟iː", "highlight": "t̟" },
+        { "word": "deal", "lang": "English", "local": "en-US", "ipa": "d̟iːl", "highlight": "d̟" },
+        { "word": "tip", "lang": "English", "local": "en-US", "ipa": "t̟ɪp", "highlight": "t̟" },
+        { "word": "deep", "lang": "English", "local": "en-US", "ipa": "d̟iːp", "highlight": "d̟" },
+        { "word": "ten", "lang": "English", "local": "en-US", "ipa": "t̟ɛn", "highlight": "t̟" },
+        { "word": "desk", "lang": "English", "local": "en-US", "ipa": "d̟ɛsk", "highlight": "d̟" },
+        { "word": "team", "lang": "English", "local": "en-US", "ipa": "t̟iːm", "highlight": "t̟" }
+      ]
+    },
+    {
+      "symbol": "̠",
+      "name": "retracted",
+      "examples": [
+        { "word": "tooth", "lang": "English", "local": "en-US", "ipa": "t̠uːθ", "highlight": "t̠" },
+        { "word": "seat", "lang": "English", "local": "en-US", "ipa": "s̠iːt", "highlight": "s̠" },
+        { "word": "soon", "lang": "English", "local": "en-US", "ipa": "s̠uːn", "highlight": "s̠" },
+        { "word": "time", "lang": "English", "local": "en-US", "ipa": "t̠aɪm", "highlight": "t̠" },
+        { "word": "sand", "lang": "English", "local": "en-US", "ipa": "s̠ænd", "highlight": "s̠" },
+        { "word": "door", "lang": "English", "local": "en-US", "ipa": "d̠ɔːr", "highlight": "d̠" },
+        { "word": "sit", "lang": "English", "local": "en-US", "ipa": "s̠ɪt", "highlight": "s̠" }
+      ]
+    }
+  ]
+}

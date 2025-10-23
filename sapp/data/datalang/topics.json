@@ -1,40 +1,32 @@
 {
   "temas": [
     {
-      "nombre": "Viaje",
-      "topics": [
-        { "id": "viaje", "titulo": "Frases para viajar.", "img": "viaje.webp", "idiomas": ["es", "en", "fr", "de", "it", "ja", "pt", "ru", "zh"] }
-      ]
-    },
-    {
-      "nombre": "Entrevista",
-      "topics": [
-        { "id": "entrevista", "titulo": "Entrevista laboral.", "img": "entrevista.webp", "idiomas": ["es", "en", "fr", "de", "it", "ja", "pt", "ru", "zh"] }
-      ]
-    },
-    {
       "nombre": "Niños - Básico",
       "topics": [
         { "id": "nino01", "titulo": "Frases niños 0 a 3 .", "img": "frases_ninos_0_3.webp", "idiomas": ["es", "en", "fr", "de", "it", "ja", "pt", "ru", "zh"] },
-        { "id": "nino02", "titulo": "Frases niños 3 a 8 V1.", "img": "frases_ninos_3_8.webp", "idiomas": ["es", "en"] }
-      ]
-    },
-    {
-      "nombre": "Cuento",
-      "topics": [
+        { "id": "nino02", "titulo": "Frases niños 3 a 8 V1.", "img": "frases_ninos_3_8.webp", "idiomas": ["es", "en"] },
+        { "id": "05cancion06", "titulo": "Musica capitan centella", "img": "frases_ninos_3_8.webp", "idiomas": ["es", "ja"] },
         { "id": "00cuento01", "titulo": "Un relato corto.", "img": "caperucita_roja.webp", "idiomas": ["es", "en","fr", "de", "it", "ja", "pt", "ru", "zh"] }
       ]
     },
     {
-      "nombre": "Canción",
+      "nombre": "Principios psicológicos y de negociación",
       "topics": [
-        { "id": "05cancion01", "titulo": "En - 001.", "img": "vaso_agua.webp", "idiomas": ["es", "en"] },
-        { "id": "05cancion02", "titulo": "Ru - Kukushka.", "img": "vaso_agua.webp", "idiomas": ["es", "ru"] },
-        { "id": "05cancion03", "titulo": "En - Losing My Religion.", "img": "vaso_agua.webp", "idiomas": ["es", "en"] },
-        { "id": "05cancion04", "titulo": "Ru - Комета .", "img": "vaso_agua.webp", "idiomas": ["es", "ru"] },
-        { "id": "05cancion05", "titulo": "Ru - Непара - Другая семья.", "img": "vaso_agua.webp", "idiomas": ["es", "ru"] }
-
-
+        { "id": "02Sesgos01", "titulo": "La Feria de la Persuasión 1a.", "img": "vaso_agua.webp", "idiomas": ["es", "en"] },
+        { "id": "02Sesgos02", "titulo": "La Feria de la Persuasión 1b.", "img": "vaso_agua.webp", "idiomas": ["es", "en"] },
+        { "id": "02Sesgos03", "titulo": "La Feria de la Persuasión 2", "img": "vaso_agua.webp", "idiomas": ["es", "en"] }
+      ]
+    },
+    {
+      "nombre": "Otros",
+      "topics": [
+        { "id": "viaje", "titulo": "Frases para viajar.", "img": "viaje.webp", "idiomas": ["es", "en", "fr", "de", "it", "ja", "pt", "ru", "zh"] },
+        { "id": "entrevista", "titulo": "Entrevista laboral.", "img": "entrevista.webp", "idiomas": ["es", "en", "fr", "de", "it", "ja", "pt", "ru", "zh"] },
+        { "id": "05cancion01", "titulo": "Canción - En - 001.", "img": "vaso_agua.webp", "idiomas": ["es", "en"] },
+        { "id": "05cancion02", "titulo": "Canción -Ru - Kukushka.", "img": "vaso_agua.webp", "idiomas": ["es", "ru"] },
+        { "id": "05cancion03", "titulo": "Canción -En - Losing My Religion.", "img": "vaso_agua.webp", "idiomas": ["es", "en"] },
+        { "id": "05cancion04", "titulo": "Canción -Ru - Комета .", "img": "vaso_agua.webp", "idiomas": ["es", "ru"] },
+        { "id": "05cancion05", "titulo": "Canción -Ru - Непара - Другая семья.", "img": "vaso_agua.webp", "idiomas": ["es", "ru"] }
       ]
     },
     {

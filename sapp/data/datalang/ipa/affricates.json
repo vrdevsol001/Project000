@@ -1,0 +1,83 @@
+{
+  "category": "Affricates",
+  "symbols": [
+    {
+      "symbol": "t͡s",
+      "name": "voiceless alveolar affricate",
+      "examples": [
+        { "word": "Zeit", "lang": "German", "local": "de-DE", "ipa": "t͡saɪt", "highlight": "t͡s" },
+        { "word": "pizza", "lang": "Italian", "local": "it-IT", "ipa": "ˈpit͡tsa", "highlight": "t͡s" },
+        { "word": "tsunami", "lang": "Japanese", "local": "ja-JP", "ipa": "t͡sɯna̠mi", "highlight": "t͡s" },
+        { "word": "cats", "lang": "English", "local": "en-US", "ipa": "kæts", "highlight": "t͡s" },
+        { "word": "cielo", "lang": "Spanish", "local": "es-ES", "ipa": "ˈt͡sjelo", "highlight": "t͡s" },
+        { "word": "tsu", "lang": "Japanese", "local": "ja-JP", "ipa": "t͡sɯ", "highlight": "t͡s" },
+        { "word": "tsar", "lang": "Russian", "local": "ru-RU", "ipa": "t͡sarʲ", "highlight": "t͡s" }
+      ]
+    },
+    {
+      "symbol": "d͡z",
+      "name": "voiced alveolar affricate",
+      "examples": [
+        { "word": "Zebra", "lang": "German", "local": "de-DE", "ipa": "d͡zeːbʁa", "highlight": "d͡z" },
+        { "word": "zero", "lang": "Italian", "local": "it-IT", "ipa": "ˈd͡zɛro", "highlight": "d͡z" },
+        { "word": "дзень", "lang": "Belarusian", "local": "be-BY", "ipa": "d͡zeɲ", "highlight": "d͡z" },
+        { "word": "дзюдо", "lang": "Russian", "local": "ru-RU", "ipa": "d͡zʲʉdo", "highlight": "d͡z" },
+        { "word": "dzo", "lang": "Polish", "local": "pl-PL", "ipa": "d͡zɔ", "highlight": "d͡z" },
+        { "word": "madze", "lang": "Twi", "local": "ak-GH", "ipa": "mad͡ze", "highlight": "d͡z" },
+        { "word": "adzi", "lang": "Ewe", "local": "ee-GH", "ipa": "ad͡zi", "highlight": "d͡z" }
+      ]
+    },
+    {
+      "symbol": "t͡ʃ",
+      "name": "voiceless postalveolar affricate",
+      "examples": [
+        { "word": "church", "lang": "English", "local": "en-US", "ipa": "t͡ʃɜːt͡ʃ", "highlight": "t͡ʃ" },
+        { "word": "chico", "lang": "Spanish", "local": "es-ES", "ipa": "ˈt͡ʃiko", "highlight": "t͡ʃ" },
+        { "word": "ciao", "lang": "Italian", "local": "it-IT", "ipa": "ˈt͡ʃaːo", "highlight": "t͡ʃ" },
+        { "word": "чем", "lang": "Russian", "local": "ru-RU", "ipa": "t͡ɕem", "highlight": "t͡ʃ" },
+        { "word": "check", "lang": "English", "local": "en-US", "ipa": "t͡ʃɛk", "highlight": "t͡ʃ" },
+        { "word": "child", "lang": "English", "local": "en-US", "ipa": "t͡ʃaɪld", "highlight": "t͡ʃ" },
+        { "word": "chapeau", "lang": "French", "local": "fr-FR", "ipa": "ʃapo / t͡ʃapo", "highlight": "t͡ʃ" }
+      ]
+    },
+    {
+      "symbol": "d͡ʒ",
+      "name": "voiced postalveolar affricate",
+      "examples": [
+        { "word": "judge", "lang": "English", "local": "en-US", "ipa": "d͡ʒʌd͡ʒ", "highlight": "d͡ʒ" },
+        { "word": "jam", "lang": "English", "local": "en-US", "ipa": "d͡ʒæm", "highlight": "d͡ʒ" },
+        { "word": "jeans", "lang": "English", "local": "en-US", "ipa": "d͡ʒiːnz", "highlight": "d͡ʒ" },
+        { "word": "gioco", "lang": "Italian", "local": "it-IT", "ipa": "ˈd͡ʒɔːko", "highlight": "d͡ʒ" },
+        { "word": "jung", "lang": "German", "local": "de-DE", "ipa": "d͡ʒʊŋ", "highlight": "d͡ʒ" },
+        { "word": "джинсы", "lang": "Russian", "local": "ru-RU", "ipa": "ˈd͡ʒɨnsɨ", "highlight": "d͡ʒ" },
+        { "word": "ajedrez", "lang": "Spanish", "local": "es-ES", "ipa": "a.d͡ʒeˈðɾeθ", "highlight": "d͡ʒ" }
+      ]
+    },
+    {
+      "symbol": "t͡ɕ",
+      "name": "voiceless alveolo-palatal affricate",
+      "examples": [
+        { "word": "七 (qī)", "lang": "Mandarin", "local": "zh-CN", "ipa": "t͡ɕʰí", "highlight": "t͡ɕ" },
+        { "word": "吃 (chī)", "lang": "Mandarin", "local": "zh-CN", "ipa": "t͡ʂʰɨ́ / t͡ɕʰɨ́", "highlight": "t͡ɕ" },
+        { "word": "ち (chi)", "lang": "Japanese", "local": "ja-JP", "ipa": "t͡ɕi", "highlight": "t͡ɕ" },
+        { "word": "チーズ (chiizu)", "lang": "Japanese", "local": "ja-JP", "ipa": "t͡ɕiːzɯ", "highlight": "t͡ɕ" },
+        { "word": "치 (chi)", "lang": "Korean", "local": "ko-KR", "ipa": "t͡ɕʰi", "highlight": "t͡ɕ" },
+        { "word": "čaj", "lang": "Czech", "local": "cs-CZ", "ipa": "t͡ʃaj / t͡ɕaj", "highlight": "t͡ɕ" },
+        { "word": "čistý", "lang": "Slovak", "local": "sk-SK", "ipa": "ˈt͡ʃistiː / t͡ɕistiː", "highlight": "t͡ɕ" }
+      ]
+    },
+    {
+      "symbol": "d͡ʑ",
+      "name": "voiced alveolo-palatal affricate",
+      "examples": [
+        { "word": "じ (ji)", "lang": "Japanese", "local": "ja-JP", "ipa": "d͡ʑi", "highlight": "d͡ʑ" },
+        { "word": "ジーンズ (jiinzu)", "lang": "Japanese", "local": "ja-JP", "ipa": "d͡ʑiːnzɯ", "highlight": "d͡ʑ" },
+        { "word": "鸡 (jī)", "lang": "Mandarin", "local": "zh-CN", "ipa": "t͡ɕí / d͡ʑí", "highlight": "d͡ʑ" },
+        { "word": "джи", "lang": "Russian", "local": "ru-RU", "ipa": "d͡ʑi", "highlight": "d͡ʑ" },
+        { "word": "dzień", "lang": "Polish", "local": "pl-PL", "ipa": "d͡ʑeɲ", "highlight": "d͡ʑ" },
+        { "word": "dži", "lang": "Lithuanian", "local": "lt-LT", "ipa": "d͡ʑi", "highlight": "d͡ʑ" },
+        { "word": "dʑan", "lang": "Hindi", "local": "hi-IN", "ipa": "d͡ʑan", "highlight": "d͡ʑ" }
+      ]
+    }
+  ]
+}

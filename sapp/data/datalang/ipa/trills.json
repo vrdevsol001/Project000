@@ -1,0 +1,44 @@
+{
+  "category": "Trills",
+  "symbols": [
+    {
+      "symbol": "r",
+      "name": "alveolar trill",
+      "examples": [
+        { "word": "perro",    "lang": "Spanish", "local": "es-ES", "ipa": "ˈpero",    "highlight": "rr" },
+        { "word": "rojo",     "lang": "Spanish", "local": "es-ES", "ipa": "ˈroxo",   "highlight": "r" },
+        { "word": "carro",    "lang": "Spanish", "local": "es-ES", "ipa": "ˈkaro",   "highlight": "rr" },
+        { "word": "Roma",     "lang": "Italian", "local": "it-IT", "ipa": "ˈroːma",  "highlight": "r" },
+        { "word": "riso",     "lang": "Italian", "local": "it-IT", "ipa": "ˈriːzo",  "highlight": "r" },
+        { "word": "Ritter",   "lang": "German",  "local": "de-DE", "ipa": "ˈʁɪtɐ",   "highlight": "R" },
+        { "word": "Rigoletto","lang": "Italian", "local": "it-IT", "ipa": "ˌriɡoˈletto", "highlight": "r" }
+      ]
+    },
+    {
+      "symbol": "ʀ",
+      "name": "uvular trill",
+      "examples": [
+        { "word": "rouge",   "lang": "French", "local": "fr-FR", "ipa": "ʀuʒ",    "highlight": "r" },
+        { "word": "rue",     "lang": "French", "local": "fr-FR", "ipa": "ʀy",     "highlight": "r" },
+        { "word": "Regen",   "lang": "German", "local": "de-DE", "ipa": "ˈʀeːɡn̩", "highlight": "R" },
+        { "word": "rot",     "lang": "German", "local": "de-DE", "ipa": "ʀoːt",   "highlight": "R" },
+        { "word": "Rücken",  "lang": "German", "local": "de-DE", "ipa": "ˈʀʏkn̩",  "highlight": "R" },
+        { "word": "régler",  "lang": "French", "local": "fr-FR", "ipa": "ʀeɡle",  "highlight": "r" },
+        { "word": "Revue",   "lang": "French", "local": "fr-FR", "ipa": "ʀəvy",   "highlight": "r" }
+      ]
+    },
+    {
+      "symbol": "ʙ",
+      "name": "bilabial trill",
+      "examples": [
+        { "word": "ʙa",   "lang": "Mboshi",          "local": "und",      "ipa": "ʙa",    "highlight": "ʙ" },
+        { "word": "ʙu",   "lang": "Mboshi",          "local": "und",      "ipa": "ʙu",    "highlight": "ʙ" },
+        { "word": "ʙaʙa","lang": "Mboshi",          "local": "und",      "ipa": "ʙaʙa",  "highlight": "ʙ" },
+        { "word": "ʙe",   "lang": "Mboshi",          "local": "und",      "ipa": "ʙe",    "highlight": "ʙ" },
+        { "word": "ʙi",   "lang": "Mboshi",          "local": "und",      "ipa": "ʙi",    "highlight": "ʙ" },
+        { "word": "ʙo",   "lang": "Mboshi",          "local": "und",      "ipa": "ʙo",    "highlight": "ʙ" },
+        { "word": "ʙaː",  "lang": "Phonetic sample","local": "und",      "ipa": "ʙaː",   "highlight": "ʙ" }
+      ]
+    }
+  ]
+}

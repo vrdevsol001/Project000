@@ -1,0 +1,31 @@
+{
+  "category": "Taps and Flaps",
+  "symbols": [
+    {
+      "symbol": "ɾ",
+      "name": "alveolar tap",
+      "examples": [
+        { "word": "pero", "lang": "Spanish", "local": "es-ES", "ipa": "ˈpeɾo", "highlight": "r" },
+        { "word": "ladder", "lang": "English (AmE)", "local": "en-US", "ipa": "ˈlæɾɚ", "highlight": "dd" },
+        { "word": "water", "lang": "English (AmE)", "local": "en-US", "ipa": "ˈwɔɾɚ", "highlight": "t" },
+        { "word": "caro", "lang": "Spanish", "local": "es-ES", "ipa": "ˈkaɾo", "highlight": "r" },
+        { "word": "batter", "lang": "English (AmE)", "local": "en-US", "ipa": "ˈbæɾɚ", "highlight": "tt" },
+        { "word": "corazón", "lang": "Spanish", "local": "es-ES", "ipa": "koɾaˈθon", "highlight": "r" },
+        { "word": "better", "lang": "English (AmE)", "local": "en-US", "ipa": "ˈbɛɾɚ", "highlight": "tt" }
+      ]
+    },
+    {
+      "symbol": "ɽ",
+      "name": "retroflex flap",
+      "examples": [
+        { "word": "baɽa", "lang": "Hindi", "local": "hi-IN", "ipa": "baɽa", "highlight": "ɽ" },
+        { "word": "paɽh", "lang": "Hindi", "local": "hi-IN", "ipa": "pəɽʱ", "highlight": "ɽ" },
+        { "word": "koɽi", "lang": "Kannada", "local": "kn-IN", "ipa": "koɽi", "highlight": "ɽ" },
+        { "word": "maɽi", "lang": "Gujarati", "local": "gu-IN", "ipa": "məɽi", "highlight": "ɽ" },
+        { "word": "kaɽo", "lang": "Urdu", "local": "ur-PK", "ipa": "kəɽo", "highlight": "ɽ" },
+        { "word": "daɽa", "lang": "Marathi", "local": "mr-IN", "ipa": "ɖaɽa", "highlight": "ɽ" },
+        { "word": "ɽu", "lang": "Telugu", "local": "te-IN", "ipa": "ɽu", "highlight": "ɽ" }
+      ]
+    }
+  ]
+}

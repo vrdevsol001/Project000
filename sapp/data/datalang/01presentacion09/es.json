@@ -1,0 +1,125 @@
+{
+  "saludo_inicial_1": {"texto":"¡Hola! ¿Es tu primera clase aquí?","fonetica":"ˈo.la es tu pɾiˈme.ɾa ˈkla.se aˈki"},
+  "saludo_inicial_2": {"texto":"Buenas tardes, ¿vienes al curso de idiomas?","fonetica":"ˈbwe.nas ˈtaɾ.ðes ˈbje.nes al ˈkuɾ.so ðe iˈðjo.mas"},
+  "respuesta_inicial_1": {"texto":"Sí, es mi primera vez","fonetica":"si es mi pɾiˈme.ɾa βes"},
+  "respuesta_inicial_2": {"texto":"No, ya llevo algunas clases","fonetica":"no ʝa ˈʝe.βo alˈɣu.nas ˈkla.ses"},
+  
+  "pregunta_nombre_1": {"texto":"¿Cómo te llamas?","fonetica":"ˈko.mo te ˈʝa.mas"},
+  "respuesta_nombre_1": {"texto":"Me llamo Ana","fonetica":"me ˈʝa.mo ˈa.na"},
+  "respuesta_nombre_2": {"texto":"Soy Carlos, mucho gusto","fonetica":"soj ˈkaɾ.los ˈmu.tʃo ˈɣus.to"},
+  "comentario_nombre_1": {"texto":"Encantado de conocerte","fonetica":"enkaŋˈta.ðo ðe ko.noˈseɾ.te"},
+  
+  "pregunta_origen_1": {"texto":"¿De dónde eres?","fonetica":"de ˈðon.de ˈe.ɾes"},
+  "respuesta_origen_1": {"texto":"Soy de México","fonetica":"soj de ˈme.xi.ko"},
+  "respuesta_origen_2": {"texto":"Vengo de Colombia","fonetica":"ˈβeŋ.go de koˈlom.bja"},
+  "comentario_origen_1": {"texto":"Qué bonito país","fonetica":"ke βoˈni.to paˈis"},
+  
+  "pregunta_razon_1": {"texto":"¿Por qué decidiste estudiar idiomas?","fonetica":"poɾ ke ðeˈsiðis.te estuˈðjaɾ iˈðjo.mas"},
+  "respuesta_razon_1": {"texto":"Porque quiero viajar","fonetica":"ˈpoɾ.ke ˈkje.ɾo βjaˈxaɾ"},
+  "respuesta_razon_2": {"texto":"Porque necesito para mi trabajo","fonetica":"ˈpoɾ.ke ne.sesiˈto pa.ɾa mi tɾaˈβa.xo"},
+  "comentario_razon_1": {"texto":"Es una muy buena motivación","fonetica":"es ˈu.na ˈmuj ˈbwe.na motiβjaˈsjon"},
+  
+  "pregunta_experiencia_1": {"texto":"¿Ya habías estudiado antes?","fonetica":"ʝa aˈβi.as estuˈðja.ðo ˈan.tes"},
+  "respuesta_experiencia_1": {"texto":"Sí, un poco en la escuela","fonetica":"si un ˈpo.ko en la esˈkwe.la"},
+  "respuesta_experiencia_2": {"texto":"No, es la primera vez","fonetica":"no es la pɾiˈme.ɾa βes"},
+  "comentario_experiencia_1": {"texto":"Genial, todos empezamos de alguna forma","fonetica":"xeˈnjal ˈto.ðos em.peˈsa.mos ðe alˈɣu.na ˈfoɾ.ma"},
+  
+  "pregunta_idioma_1": {"texto":"¿Qué idioma estás aprendiendo?","fonetica":"ke iˈðjo.ma esˈtas apɾenˈðjen.do"},
+  "respuesta_idioma_1": {"texto":"Estoy aprendiendo inglés","fonetica":"esˈtoj apɾenˈðjen.do iŋˈgles"},
+  "respuesta_idioma_2": {"texto":"Quiero mejorar mi francés","fonetica":"ˈkje.ɾo mexoˈɾaɾ mi fɾanˈses"},
+  "comentario_idioma_1": {"texto":"Son idiomas muy útiles","fonetica":"son iˈðjo.mas ˈmuj ˈu.ti.les"},
+  
+  "pregunta_profesor_1": {"texto":"¿Qué te parece el profesor?","fonetica":"ke te paˈɾe.se el pɾofeˈsoɾ"},
+  "respuesta_profesor_1": {"texto":"Explica muy claro","fonetica":"eksˈpli.ka ˈmuj ˈkla.ɾo"},
+  "respuesta_profesor_2": {"texto":"Tiene mucha paciencia","fonetica":"ˈtje.ne ˈmu.tʃa paˈsjensja"},
+  "comentario_profesor_1": {"texto":"Eso ayuda bastante para aprender","fonetica":"ˈe.so aˈʝu.ða βasˈtan.te pa.ɾa apɾenˈdeɾ"},
+  
+  "pregunta_hobby_1": {"texto":"¿Qué te gusta hacer en tu tiempo libre?","fonetica":"ke te ˈɣus.ta aˈseɾ en tu ˈtjem.po ˈli.βɾe"},
+  "respuesta_hobby_1": {"texto":"Me gusta leer y escuchar música","fonetica":"me ˈɣus.ta leˈeɾ i eskuˈtʃaɾ ˈmu.si.ka"},
+  "respuesta_hobby_2": {"texto":"Prefiero hacer deporte","fonetica":"pɾeˈfje.ɾo aˈseɾ deˈpoɾ.te"},
+  "comentario_hobby_1": {"texto":"Suena divertido","fonetica":"ˈswe.na diβeɾˈtiðo"},
+  
+  "pregunta_meta_1": {"texto":"¿Cuál es tu meta con este curso?","fonetica":"kwal es tu ˈme.ta kon ˈes.te ˈkuɾ.so"},
+  "respuesta_meta_1": {"texto":"Quiero hablar con más confianza","fonetica":"ˈkje.ɾo aˈβlaɾ kon mas koɱˈfjan.sa"},
+  "respuesta_meta_2": {"texto":"Mi meta es aprobar el examen oficial","fonetica":"mi ˈme.ta es apɾoˈβaɾ el ekˈsa.men ofiˈsjal"},
+  "comentario_meta_1": {"texto":"Excelente objetivo","fonetica":"ekseˈlen.te oβxeˈti.βo"},
+  
+  "pregunta_amigos_1": {"texto":"¿Ya conoces a alguien más del curso?","fonetica":"ʝa koˈno.ses a ˈal.gjen mas ðel ˈkuɾ.so"},
+  "respuesta_amigos_1": {"texto":"No, apenas estoy conociendo","fonetica":"no aˈpe.nas esˈtoj ko.noˈsjendo"},
+  "respuesta_amigos_2": {"texto":"Sí, hice amistad la semana pasada","fonetica":"si ˈi.se amisˈtað la seˈma.na paˈsa.ða"},
+  "comentario_amigos_1": {"texto":"Genial, seguro harás más amistades aquí","fonetica":"xeˈnjal seˈɣu.ɾo aˈɾas mas amisˈta.des aˈki"},
+  
+  "pregunta_contacto_1": {"texto":"¿Quieres intercambiar números de contacto?","fonetica":"ˈkje.ɾes in.teɾkamˈbjaɾ ˈnu.me.ɾos de konˈtak.to"},
+  "respuesta_contacto_1": {"texto":"Claro, te paso mi número","fonetica":"ˈkla.ɾo te ˈpa.so mi ˈnu.me.ɾo"},
+  "respuesta_contacto_2": {"texto":"Mejor intercambiemos Instagram","fonetica":"meˈxoɾ in.teɾkamˈbje.mos instaˈɣɾam"},
+  "comentario_contacto_1": {"texto":"Perfecto, así seguimos en contacto","fonetica":"peɾˈfek.to aˈsi seˈɣi.mos en konˈtak.to"},
+  
+  "despedida_amistosa_1": {"texto":"Fue un gusto conocerte","fonetica":"fwe un ˈɣus.to ko.noˈseɾ.te"},
+  "despedida_amistosa_2": {"texto":"Nos vemos en la próxima clase","fonetica":"nos ˈβe.mos en la ˈpɾok.si.ma ˈkla.se"},
+  "despedida_amistosa_3": {"texto":"¡Que tengas un buen día!","fonetica":"ke ˈteŋ.gas un ˈbwen ˈdi.a"},
+
+  "comentario_motivacion_2": {"texto":"Me alegra que estemos en el mismo grupo","fonetica":"me aˈle.ɣɾa ke esˈte.mos en el ˈmis.mo ˈɣɾu.po"},
+  "respuesta_motivacion_2": {"texto":"Sí, será más fácil practicar juntos","fonetica":"si seˈɾa mas ˈfa.sil pɾaktiˈkaɾ ˈxun.tos"},
+  
+  "pregunta_ciudad_1": {"texto":"¿Vives cerca de aquí?","fonetica":"ˈbi.βes ˈseɾ.ka ðe aˈki"},
+  "respuesta_ciudad_1": {"texto":"Sí, a unas cuadras","fonetica":"si a ˈu.nas ˈkwa.ðɾas"},
+  "respuesta_ciudad_2": {"texto":"No, vengo en bus desde lejos","fonetica":"no ˈβeŋ.go en bus ˈdes.ðe ˈle.xos"},
+  
+  "comentario_ciudad_1": {"texto":"Debe ser cansado venir tan lejos","fonetica":"ˈðe.βe seɾ kanˈsa.ðo βeˈniɾ tan ˈle.xos"},
+  "respuesta_ciudad_3": {"texto":"Un poco, pero vale la pena","fonetica":"un ˈpo.ko ˈpe.ɾo ˈβa.le la ˈpe.na"},
+  
+  "pregunta_estudios_1": {"texto":"¿Qué estudias además de idiomas?","fonetica":"ke esˈtu.ðjas aðeˈmas ðe iˈðjo.mas"},
+  "respuesta_estudios_1": {"texto":"Estudio ingeniería","fonetica":"esˈtu.ðjo iŋxeɾiˈne.ɾja"},
+  "respuesta_estudios_2": {"texto":"Estoy en la universidad de medicina","fonetica":"esˈtoj en la uniβeɾsiˈðað ðe meðiˈsi.na"},
+  
+  "comentario_estudios_1": {"texto":"Suena muy interesante","fonetica":"ˈswe.na muj inteɾeˈsan.te"},
+  "respuesta_estudios_3": {"texto":"Sí, aunque a veces es difícil","fonetica":"si ˈawŋ.ke a ˈβe.ses es ðiˈfi.sil"},
+  
+  "pregunta_practica_1": {"texto":"¿Practicas el idioma fuera de clase?","fonetica":"pɾakˈti.kas el iˈðjo.ma ˈfwe.ɾa ðe ˈkla.se"},
+  "respuesta_practica_1": {"texto":"Sí, veo películas sin subtítulos","fonetica":"si ˈβe.o peˈli.ku.las sin subˈti.tu.los"},
+  "respuesta_practica_2": {"texto":"Escucho música y podcasts","fonetica":"esˈku.tʃo ˈmu.si.ka i ˈpod.kasts"},
+  
+  "comentario_practica_1": {"texto":"Eso ayuda mucho a mejorar","fonetica":"ˈe.so aˈʝu.ða ˈmu.tʃo a mexoˈɾaɾ"},
+  
+  "pregunta_comida_1": {"texto":"¿Te gusta la comida típica de tu país?","fonetica":"te ˈɣus.ta la koˈmi.ða ˈti.pi.ka ðe tu paˈis"},
+  "respuesta_comida_1": {"texto":"Sí, me encanta la comida casera","fonetica":"si me enˈkan.ta la koˈmi.ða kaˈse.ɾa"},
+  "respuesta_comida_2": {"texto":"A veces extraño los sabores locales","fonetica":"a ˈβe.ses eksˈtɾa.ɲo los saˈβo.ɾes loˈka.les"},
+  
+  "comentario_comida_1": {"texto":"Podrías invitarnos un día a probarla","fonetica":"poˈðɾi.as inβiˈtaɾ.nos un ˈdi.a a pɾoˈβaɾ.la"},
+  "respuesta_comida_3": {"texto":"Claro, sería un placer","fonetica":"ˈkla.ɾo seˈɾi.a un plaˈseɾ"},
+  
+  "pregunta_viajes_1": {"texto":"¿Has viajado a algún país extranjero?","fonetica":"as βjaˈxa.ðo a alˈɣun paˈis ekstɾanˈxeɾo"},
+  "respuesta_viajes_1": {"texto":"Sí, estuve en España el año pasado","fonetica":"si esˈtu.βe en esˈpa.ɲa el ˈa.ɲo paˈsa.ðo"},
+  "respuesta_viajes_2": {"texto":"No, pero me gustaría ir pronto","fonetica":"no ˈpe.ɾo me ɣustaˈɾi.a iɾ ˈpɾon.to"},
+  
+  "comentario_viajes_1": {"texto":"Viajar ayuda mucho con los idiomas","fonetica":"βjaˈxaɾ aˈʝu.ða ˈmu.tʃo kon los iˈðjo.mas"},
+  
+  "pregunta_deporte_1": {"texto":"¿Practicas algún deporte?","fonetica":"pɾakˈti.kas alˈɣun deˈpoɾ.te"},
+  "respuesta_deporte_1": {"texto":"Sí, juego fútbol los fines de semana","fonetica":"si ˈxwe.ɣo ˈfut.βol los ˈfi.nes de seˈma.na"},
+  "respuesta_deporte_2": {"texto":"Prefiero nadar en la piscina","fonetica":"pɾeˈfje.ɾo naˈðaɾ en la piˈsi.na"},
+  
+  "comentario_deporte_1": {"texto":"¡Qué saludable!","fonetica":"ke saluˈða.βle"},
+  
+  "pregunta_familia_1": {"texto":"¿Tienes hermanos o hermanas?","fonetica":"ˈtje.nes eɾˈma.nos o eɾˈma.nas"},
+  "respuesta_familia_1": {"texto":"Sí, tengo dos hermanos","fonetica":"si ˈteŋ.go ðos eɾˈma.nos"},
+  "respuesta_familia_2": {"texto":"Soy hijo único","fonetica":"soj ˈi.xo ˈu.ni.ko"},
+  
+  "comentario_familia_1": {"texto":"Debe ser divertido tener hermanos","fonetica":"ˈðe.βe seɾ diβeɾˈtiðo teˈneɾ eɾˈma.nos"},
+  "comentario_familia_2": {"texto":"También es bonito ser hijo único","fonetica":"tamˈbjen es βoˈni.to seɾ ˈi.xo ˈu.ni.ko"},
+  
+  "pregunta_eventos_1": {"texto":"¿Participas en eventos culturales?","fonetica":"paɾtiˈsi.pas en eˈβen.tos kultuˈɾa.les"},
+  "respuesta_eventos_1": {"texto":"Sí, me gusta asistir a conciertos","fonetica":"si me ˈɣus.ta asisˈtiɾ a konˈsjertos"},
+  "respuesta_eventos_2": {"texto":"Prefiero las obras de teatro","fonetica":"pɾeˈfje.ɾo las ˈo.βɾas de ˈte.a.tɾo"},
+  
+  "comentario_eventos_1": {"texto":"Eso es muy enriquecedor","fonetica":"ˈe.so es muj enri.ke.seˈðoɾ"},
+  
+  "pregunta_futuro_1": {"texto":"¿Qué te gustaría hacer después del curso?","fonetica":"ke te ɣustaˈɾi.a aˈseɾ desˈpwes ðel ˈkuɾ.so"},
+  "respuesta_futuro_1": {"texto":"Viajar al extranjero","fonetica":"βjaˈxaɾ al ekstɾanˈxeɾo"},
+  "respuesta_futuro_2": {"texto":"Conseguir un mejor trabajo","fonetica":"konseˈɣiɾ un meˈxoɾ tɾaˈβa.xo"},
+  
+  "comentario_futuro_1": {"texto":"Seguro lo lograrás","fonetica":"seˈɣu.ɾo lo loɣɾaˈɾas"},
+  
+  "despedida_amigos_1": {"texto":"Fue muy agradable conversar contigo","fonetica":"fwe muj aɣɾaˈða.βle komβeɾˈsaɾ konˈti.ɣo"},
+  "despedida_amigos_2": {"texto":"Nos vemos mañana en clase","fonetica":"nos ˈβe.mos maˈɲa.na en ˈkla.se"},
+  "despedida_amigos_3": {"texto":"¡Que tengas una linda tarde!","fonetica":"ke ˈteŋ.gas ˈu.na ˈlin.da ˈtaɾ.ðe"}
+}

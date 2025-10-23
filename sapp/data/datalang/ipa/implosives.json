@@ -1,0 +1,70 @@
+{
+  "category": "Implosives",
+  "symbols": [
+    {
+      "symbol": "ɓ",
+      "name": "voiced bilabial implosive",
+      "examples": [
+        { "word": "ɓa", "lang": "Hausa", "local": "ha-NE", "ipa": "ɓa", "highlight": "ɓ" },
+        { "word": "ɓera", "lang": "Fula", "local": "ff-SN", "ipa": "ɓera", "highlight": "ɓ" },
+        { "word": "ɓé", "lang": "Serer", "local": "srr-SN", "ipa": "ɓe", "highlight": "ɓ" },
+        { "word": "ɓala", "lang": "Ewe", "local": "ee-GH", "ipa": "ɓala", "highlight": "ɓ" },
+        { "word": "ɓɔ", "lang": "Yoruba", "local": "yo-NG", "ipa": "ɓɔ", "highlight": "ɓ" },
+        { "word": "ɗanɓa", "lang": "Hausa", "local": "ha-NE", "ipa": "ɗanɓa", "highlight": "ɓ" },
+        { "word": "ɓato", "lang": "Lingala", "local": "ln-CD", "ipa": "ɓato", "highlight": "ɓ" }
+      ]
+    },
+    {
+      "symbol": "ɗ",
+      "name": "voiced alveolar implosive",
+      "examples": [
+        { "word": "ɗan", "lang": "Hausa", "local": "ha-NE", "ipa": "ɗan", "highlight": "ɗ" },
+        { "word": "ɗalibi", "lang": "Hausa", "local": "ha-NE", "ipa": "ɗalibi", "highlight": "ɗ" },
+        { "word": "ɗiga", "lang": "Fula", "local": "ff-SN", "ipa": "ɗiga", "highlight": "ɗ" },
+        { "word": "ɗuɗu", "lang": "Serer", "local": "srr-SN", "ipa": "ɗuɗu", "highlight": "ɗ" },
+        { "word": "ɗeere", "lang": "Wolof", "local": "wo-SN", "ipa": "ɗeːre", "highlight": "ɗ" },
+        { "word": "ɗal", "lang": "Kanuri", "local": "kr-NG", "ipa": "ɗal", "highlight": "ɗ" },
+        { "word": "ɗoro", "lang": "Ewe", "local": "ee-GH", "ipa": "ɗoro", "highlight": "ɗ" }
+      ]
+    },
+    {
+      "symbol": "ʄ",
+      "name": "voiced palatal implosive",
+      "examples": [
+        { "word": "ʄam", "lang": "Fula", "local": "ff-SN", "ipa": "ʄam", "highlight": "ʄ" },
+        { "word": "ʄalli", "lang": "Fula", "local": "ff-SN", "ipa": "ʄalli", "highlight": "ʄ" },
+        { "word": "ʄere", "lang": "Serer", "local": "srr-SN", "ipa": "ʄere", "highlight": "ʄ" },
+        { "word": "ʄama", "lang": "Wolof", "local": "wo-SN", "ipa": "ʄama", "highlight": "ʄ" },
+        { "word": "maʄa", "lang": "Fula", "local": "ff-SN", "ipa": "maʄa", "highlight": "ʄ" },
+        { "word": "naʄi", "lang": "Serer", "local": "srr-SN", "ipa": "naʄi", "highlight": "ʄ" },
+        { "word": "toʄo", "lang": "Fula", "local": "ff-SN", "ipa": "toʄo", "highlight": "ʄ" }
+      ]
+    },
+    {
+      "symbol": "ɠ",
+      "name": "voiced velar implosive",
+      "examples": [
+        { "word": "ɠa", "lang": "Mende", "local": "men-SL", "ipa": "ɠa", "highlight": "ɠ" },
+        { "word": "ɠele", "lang": "Mende", "local": "men-SL", "ipa": "ɠele", "highlight": "ɠ" },
+        { "word": "maɠa", "lang": "Fula", "local": "ff-SN", "ipa": "maɠa", "highlight": "ɠ" },
+        { "word": "toɠo", "lang": "Lingala", "local": "ln-CD", "ipa": "toɠo", "highlight": "ɠ" },
+        { "word": "baɠa", "lang": "Ewe", "local": "ee-GH", "ipa": "baɠa", "highlight": "ɠ" },
+        { "word": "naɠi", "lang": "Wolof", "local": "wo-SN", "ipa": "naɠi", "highlight": "ɠ" },
+        { "word": "paɠa", "lang": "Mende", "local": "men-SL", "ipa": "paɠa", "highlight": "ɠ" }
+      ]
+    },
+    {
+      "symbol": "ʛ",
+      "name": "voiced uvular implosive",
+      "examples": [
+        { "word": "ʛa", "lang": "Sindhi", "local": "sd-IN", "ipa": "ʛa", "highlight": "ʛ" },
+        { "word": "ʛo", "lang": "Sindhi", "local": "sd-IN", "ipa": "ʛo", "highlight": "ʛ" },
+        { "word": "ʛʊrʊ", "lang": "Sindhi", "local": "sd-IN", "ipa": "ʛʊrʊ", "highlight": "ʛ" },
+        { "word": "paʛa", "lang": "Sindhi", "local": "sd-IN", "ipa": "paʛa", "highlight": "ʛ" },
+        { "word": "taʛi", "lang": "Sindhi", "local": "sd-IN", "ipa": "taʛi", "highlight": "ʛ" },
+        { "word": "ʛul", "lang": "Sindhi", "local": "sd-IN", "ipa": "ʛul", "highlight": "ʛ" },
+        { "word": "kaʛa", "lang": "Sindhi", "local": "sd-IN", "ipa": "kaʛa", "highlight": "ʛ" }
+      ]
+    }
+  ]
+}
